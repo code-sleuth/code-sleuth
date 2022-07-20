@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @code-sleuth, but you can call me ibra
 - 👀 I’m interested in Go
-- 🌱 I’m currently learning rust
+- 🌱 I’m currently learning rust and carbon
 - 💞️ I’m looking to collaborate on anything interesting 
 
 <!---
