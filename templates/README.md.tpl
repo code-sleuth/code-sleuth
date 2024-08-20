@@ -41,9 +41,7 @@ limitations under the License.
 - [6.5840](http://nil.csail.mit.edu/6.5840/2024/)
 
 #### 📜 My recent blog posts
-{{range rss "https://medium.com/@code.ibra" 5}}
-- [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
-{{- end}}
+- Tbd
 
 #### 🎙️ My recent podcasts
 - Tbd
