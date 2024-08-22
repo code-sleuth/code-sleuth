@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [meshery/meshery](https://github.com/meshery/meshery) ([v0.7.89](https://github.com/meshery/meshery/releases/tag/v0.7.89), today) - Meshery, the cloud native manager
+- [meshery/meshery](https://github.com/meshery/meshery) ([v0.7.89](https://github.com/meshery/meshery/releases/tag/v0.7.89), 1 day ago) - Meshery, the cloud native manager
 - [meshery/meshery-linkerd](https://github.com/meshery/meshery-linkerd) ([v0.6.13](https://github.com/meshery/meshery-linkerd/releases/tag/v0.6.13), 9 months ago) - Meshery adapter for Linkerd
 
 #### 🔨 My recent Pull Requests
@@ -44,11 +44,11 @@
 
 #### ⭐ Recent Stars
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 day ago)
-- [helm/helm](https://github.com/helm/helm) - The Kubernetes Package Manager (1 day ago)
-- [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.  (2 days ago)
-- [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database. (3 days ago)
-- [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, cross-platform terminal for seamless workflows (2 weeks ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (2 days ago)
+- [helm/helm](https://github.com/helm/helm) - The Kubernetes Package Manager (2 days ago)
+- [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.  (3 days ago)
+- [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database. (4 days ago)
+- [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, cross-platform terminal for seamless workflows (3 weeks ago)
 - [bottlerocket-os/bottlerocket](https://github.com/bottlerocket-os/bottlerocket) - An operating system designed for hosting containers (3 months ago)
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. (4 months ago)
 - [myles-mcdonnell/sendmailserviceproxy](https://github.com/myles-mcdonnell/sendmailserviceproxy) - A scalable, fail fast high throughput service that proxies for two underlying email services and fails over between them (7 months ago)
