@@ -25,11 +25,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: cors, jwt and utils](https://github.com/code-sleuth/outh/pull/14) on [code-sleuth/outh](https://github.com/code-sleuth/outh) (today)
 - [feat(app-state): augment business logic](https://github.com/code-sleuth/outh/pull/13) on [code-sleuth/outh](https://github.com/code-sleuth/outh) (1 month ago)
 - [feat(snyk): add snyk code scanning](https://github.com/code-sleuth/outh/pull/11) on [code-sleuth/outh](https://github.com/code-sleuth/outh) (2 months ago)
 - [feat(headers): add check to verify headers](https://github.com/code-sleuth/outh/pull/10) on [code-sleuth/outh](https://github.com/code-sleuth/outh) (2 months ago)
 - [feat(app): augment app structure ](https://github.com/code-sleuth/outh/pull/9) on [code-sleuth/outh](https://github.com/code-sleuth/outh) (2 months ago)
-- [chore(tests): add base unit tests for all routes](https://github.com/code-sleuth/outh/pull/8) on [code-sleuth/outh](https://github.com/code-sleuth/outh) (2 months ago)
 
 #### 🌱📖 I’m currently learning
 - [LFS](https://www.linuxfromscratch.org/lfs/)
