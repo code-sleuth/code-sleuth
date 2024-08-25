@@ -20,12 +20,12 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [meshery/meshery](https://github.com/meshery/meshery) ([v0.8.0-alpha.2](https://github.com/meshery/meshery/releases/tag/v0.8.0-alpha.2), 1 day ago) - Meshery, the cloud native manager
+- [meshery/meshery](https://github.com/meshery/meshery) ([v0.8.0-alpha.2](https://github.com/meshery/meshery/releases/tag/v0.8.0-alpha.2), 2 days ago) - Meshery, the cloud native manager
 - [meshery/meshery-linkerd](https://github.com/meshery/meshery-linkerd) ([v0.6.13](https://github.com/meshery/meshery-linkerd/releases/tag/v0.6.13), 9 months ago) - Meshery adapter for Linkerd
 
 #### 🔨 My recent Pull Requests
 
-- [feat: cors, jwt and utils](https://github.com/code-sleuth/outh/pull/14) on [code-sleuth/outh](https://github.com/code-sleuth/outh) (2 days ago)
+- [feat: cors, jwt and utils](https://github.com/code-sleuth/outh/pull/14) on [code-sleuth/outh](https://github.com/code-sleuth/outh) (3 days ago)
 - [feat(app-state): augment business logic](https://github.com/code-sleuth/outh/pull/13) on [code-sleuth/outh](https://github.com/code-sleuth/outh) (1 month ago)
 - [feat(snyk): add snyk code scanning](https://github.com/code-sleuth/outh/pull/11) on [code-sleuth/outh](https://github.com/code-sleuth/outh) (2 months ago)
 - [feat(headers): add check to verify headers](https://github.com/code-sleuth/outh/pull/10) on [code-sleuth/outh](https://github.com/code-sleuth/outh) (2 months ago)
@@ -44,10 +44,10 @@
 
 #### ⭐ Recent Stars
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (4 days ago)
-- [helm/helm](https://github.com/helm/helm) - The Kubernetes Package Manager (4 days ago)
-- [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.  (5 days ago)
-- [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database. (6 days ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (5 days ago)
+- [helm/helm](https://github.com/helm/helm) - The Kubernetes Package Manager (5 days ago)
+- [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.  (6 days ago)
+- [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database. (1 week ago)
 - [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, cross-platform terminal for seamless workflows (3 weeks ago)
 - [bottlerocket-os/bottlerocket](https://github.com/bottlerocket-os/bottlerocket) - An operating system designed for hosting containers (4 months ago)
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. (4 months ago)
