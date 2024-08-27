@@ -20,16 +20,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [meshery/meshery](https://github.com/meshery/meshery) ([v0.8.0-beta.1](https://github.com/meshery/meshery/releases/tag/v0.8.0-beta.1), 1 day ago) - Meshery, the cloud native manager
+- [meshery/meshery](https://github.com/meshery/meshery) ([v0.8.0-beta.2](https://github.com/meshery/meshery/releases/tag/v0.8.0-beta.2), today) - Meshery, the cloud native manager
 - [meshery/meshery-linkerd](https://github.com/meshery/meshery-linkerd) ([v0.6.13](https://github.com/meshery/meshery-linkerd/releases/tag/v0.6.13), 9 months ago) - Meshery adapter for Linkerd
 
 #### 🔨 My recent Pull Requests
 
+- [chore: x86_64](https://github.com/code-sleuth/outh/pull/19) on [code-sleuth/outh](https://github.com/code-sleuth/outh) (today)
+- [feat: split arm64 and x86_64 lambda dockerfiles](https://github.com/code-sleuth/outh/pull/18) on [code-sleuth/outh](https://github.com/code-sleuth/outh) (today)
+- [chore: bug fixes](https://github.com/code-sleuth/outh/pull/17) on [code-sleuth/outh](https://github.com/code-sleuth/outh) (today)
 - [feat: release dev](https://github.com/code-sleuth/outh/pull/16) on [code-sleuth/outh](https://github.com/code-sleuth/outh) (1 day ago)
 - [feat: support aws lambda deployment](https://github.com/code-sleuth/outh/pull/15) on [code-sleuth/outh](https://github.com/code-sleuth/outh) (1 day ago)
-- [feat: cors, jwt and utils](https://github.com/code-sleuth/outh/pull/14) on [code-sleuth/outh](https://github.com/code-sleuth/outh) (5 days ago)
-- [feat(app-state): augment business logic](https://github.com/code-sleuth/outh/pull/13) on [code-sleuth/outh](https://github.com/code-sleuth/outh) (1 month ago)
-- [feat(snyk): add snyk code scanning](https://github.com/code-sleuth/outh/pull/11) on [code-sleuth/outh](https://github.com/code-sleuth/outh) (2 months ago)
 
 #### 🌱📖 I’m currently learning
 - [LFS](https://www.linuxfromscratch.org/lfs/)
