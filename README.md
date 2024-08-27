@@ -44,6 +44,7 @@
 
 #### ⭐ Recent Stars
 
+- [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for creating reliable and efficient web applications (today)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 week ago)
 - [helm/helm](https://github.com/helm/helm) - The Kubernetes Package Manager (1 week ago)
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.  (1 week ago)
@@ -53,7 +54,6 @@
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. (4 months ago)
 - [myles-mcdonnell/sendmailserviceproxy](https://github.com/myles-mcdonnell/sendmailserviceproxy) - A scalable, fail fast high throughput service that proxies for two underlying email services and fails over between them (7 months ago)
 - [travis-ci/travis-ci](https://github.com/travis-ci/travis-ci) - Free continuous integration platform for GitHub projects. (7 months ago)
-- [cncf/devstats-helm](https://github.com/cncf/devstats-helm) - 📈DevStats deployment on Kubernetes using Equinix servers and Helm, CoreDNS, containerd, MetalLB, OpenEBS, nginx-ingress, nginx, cert-manager, nfs-server-provisioner. (9 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
