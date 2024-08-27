@@ -7,7 +7,7 @@
 - [code-sleuth/outh](https://github.com/code-sleuth/outh) - Auth service (today)
 - [meshery/meshery](https://github.com/meshery/meshery) - Meshery, the cloud native manager (3 months ago)
 - [code-sleuth/interwebs-presence](https://github.com/code-sleuth/interwebs-presence) -  (3 months ago)
-- [meshery/meshery-linkerd](https://github.com/meshery/meshery-linkerd) - Meshery adapter for Linkerd (3 months ago)
+- [meshery/meshery-linkerd](https://github.com/meshery/meshery-linkerd) - Meshery adapter for Linkerd (4 months ago)
 - [code-sleuth/read-from-redis](https://github.com/code-sleuth/read-from-redis) - script to read keys from redis with cluster mode enabled (5 months ago)
 
 #### 🌱 My latest projects
@@ -20,14 +20,14 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [meshery/meshery](https://github.com/meshery/meshery) ([v0.8.0-beta.1](https://github.com/meshery/meshery/releases/tag/v0.8.0-beta.1), today) - Meshery, the cloud native manager
+- [meshery/meshery](https://github.com/meshery/meshery) ([v0.8.0-beta.1](https://github.com/meshery/meshery/releases/tag/v0.8.0-beta.1), 1 day ago) - Meshery, the cloud native manager
 - [meshery/meshery-linkerd](https://github.com/meshery/meshery-linkerd) ([v0.6.13](https://github.com/meshery/meshery-linkerd/releases/tag/v0.6.13), 9 months ago) - Meshery adapter for Linkerd
 
 #### 🔨 My recent Pull Requests
 
-- [feat: release dev](https://github.com/code-sleuth/outh/pull/16) on [code-sleuth/outh](https://github.com/code-sleuth/outh) (today)
-- [feat: support aws lambda deployment](https://github.com/code-sleuth/outh/pull/15) on [code-sleuth/outh](https://github.com/code-sleuth/outh) (today)
-- [feat: cors, jwt and utils](https://github.com/code-sleuth/outh/pull/14) on [code-sleuth/outh](https://github.com/code-sleuth/outh) (4 days ago)
+- [feat: release dev](https://github.com/code-sleuth/outh/pull/16) on [code-sleuth/outh](https://github.com/code-sleuth/outh) (1 day ago)
+- [feat: support aws lambda deployment](https://github.com/code-sleuth/outh/pull/15) on [code-sleuth/outh](https://github.com/code-sleuth/outh) (1 day ago)
+- [feat: cors, jwt and utils](https://github.com/code-sleuth/outh/pull/14) on [code-sleuth/outh](https://github.com/code-sleuth/outh) (5 days ago)
 - [feat(app-state): augment business logic](https://github.com/code-sleuth/outh/pull/13) on [code-sleuth/outh](https://github.com/code-sleuth/outh) (1 month ago)
 - [feat(snyk): add snyk code scanning](https://github.com/code-sleuth/outh/pull/11) on [code-sleuth/outh](https://github.com/code-sleuth/outh) (2 months ago)
 
@@ -44,8 +44,8 @@
 
 #### ⭐ Recent Stars
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (6 days ago)
-- [helm/helm](https://github.com/helm/helm) - The Kubernetes Package Manager (6 days ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 week ago)
+- [helm/helm](https://github.com/helm/helm) - The Kubernetes Package Manager (1 week ago)
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.  (1 week ago)
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database. (1 week ago)
 - [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, cross-platform terminal for seamless workflows (3 weeks ago)
