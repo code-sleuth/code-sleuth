@@ -4,7 +4,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [code-sleuth/outh](https://github.com/code-sleuth/outh) - Auth service (4 days ago)
+- [code-sleuth/outh](https://github.com/code-sleuth/outh) - Auth service (5 days ago)
 - [meshery/meshery](https://github.com/meshery/meshery) - Meshery, the cloud native manager (3 months ago)
 - [code-sleuth/interwebs-presence](https://github.com/code-sleuth/interwebs-presence) -  (4 months ago)
 - [meshery/meshery-linkerd](https://github.com/meshery/meshery-linkerd) - Meshery adapter for Linkerd (4 months ago)
@@ -20,14 +20,14 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [meshery/meshery](https://github.com/meshery/meshery) ([v0.7.91](https://github.com/meshery/meshery/releases/tag/v0.7.91), today) - Meshery, the cloud native manager
+- [meshery/meshery](https://github.com/meshery/meshery) ([v0.7.91](https://github.com/meshery/meshery/releases/tag/v0.7.91), 1 day ago) - Meshery, the cloud native manager
 - [meshery/meshery-linkerd](https://github.com/meshery/meshery-linkerd) ([v0.6.13](https://github.com/meshery/meshery-linkerd/releases/tag/v0.6.13), 9 months ago) - Meshery adapter for Linkerd
 
 #### 🔨 My recent Pull Requests
 
-- [chore: x86_64](https://github.com/code-sleuth/outh/pull/19) on [code-sleuth/outh](https://github.com/code-sleuth/outh) (6 days ago)
-- [feat: split arm64 and x86_64 lambda dockerfiles](https://github.com/code-sleuth/outh/pull/18) on [code-sleuth/outh](https://github.com/code-sleuth/outh) (6 days ago)
-- [chore: bug fixes](https://github.com/code-sleuth/outh/pull/17) on [code-sleuth/outh](https://github.com/code-sleuth/outh) (6 days ago)
+- [chore: x86_64](https://github.com/code-sleuth/outh/pull/19) on [code-sleuth/outh](https://github.com/code-sleuth/outh) (1 week ago)
+- [feat: split arm64 and x86_64 lambda dockerfiles](https://github.com/code-sleuth/outh/pull/18) on [code-sleuth/outh](https://github.com/code-sleuth/outh) (1 week ago)
+- [chore: bug fixes](https://github.com/code-sleuth/outh/pull/17) on [code-sleuth/outh](https://github.com/code-sleuth/outh) (1 week ago)
 - [feat: release dev](https://github.com/code-sleuth/outh/pull/16) on [code-sleuth/outh](https://github.com/code-sleuth/outh) (1 week ago)
 - [feat: support aws lambda deployment](https://github.com/code-sleuth/outh/pull/15) on [code-sleuth/outh](https://github.com/code-sleuth/outh) (1 week ago)
 
@@ -44,10 +44,10 @@
 
 #### ⭐ Recent Stars
 
-- [bitbomdev/minefield](https://github.com/bitbomdev/minefield) - Graphing SBOM&#39;s Fast. (2 days ago)
-- [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for creating reliable and efficient web applications (6 days ago)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 week ago)
-- [helm/helm](https://github.com/helm/helm) - The Kubernetes Package Manager (1 week ago)
+- [bitbomdev/minefield](https://github.com/bitbomdev/minefield) - Graphing SBOM&#39;s Fast. (3 days ago)
+- [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for creating reliable and efficient web applications (1 week ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (2 weeks ago)
+- [helm/helm](https://github.com/helm/helm) - The Kubernetes Package Manager (2 weeks ago)
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.  (2 weeks ago)
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database. (2 weeks ago)
 - [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, cross-platform terminal for seamless workflows (1 month ago)
