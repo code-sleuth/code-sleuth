@@ -4,19 +4,19 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [code-sleuth/test-helpers](https://github.com/code-sleuth/test-helpers) -  (today)
 - [code-sleuth/outh](https://github.com/code-sleuth/outh) - Auth service (5 days ago)
 - [meshery/meshery](https://github.com/meshery/meshery) - Meshery, the cloud native manager (3 months ago)
 - [code-sleuth/interwebs-presence](https://github.com/code-sleuth/interwebs-presence) -  (4 months ago)
 - [meshery/meshery-linkerd](https://github.com/meshery/meshery-linkerd) - Meshery adapter for Linkerd (4 months ago)
-- [code-sleuth/read-from-redis](https://github.com/code-sleuth/read-from-redis) - script to read keys from redis with cluster mode enabled (5 months ago)
 
 #### 🌱 My latest projects
 
+- [code-sleuth/test-helpers](https://github.com/code-sleuth/test-helpers) - 
 - [code-sleuth/outh](https://github.com/code-sleuth/outh) - Auth service
 - [code-sleuth/interwebs-presence](https://github.com/code-sleuth/interwebs-presence) - 
 - [code-sleuth/read-from-redis](https://github.com/code-sleuth/read-from-redis) - script to read keys from redis with cluster mode enabled
 - [code-sleuth/port_sniffer](https://github.com/code-sleuth/port_sniffer) - 
-- [code-sleuth/chat-client](https://github.com/code-sleuth/chat-client) - 
 
 #### 🔭 Latest releases I've contributed to
 
