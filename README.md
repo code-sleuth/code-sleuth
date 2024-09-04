@@ -4,8 +4,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [code-sleuth/outh](https://github.com/code-sleuth/outh) - Auth service (today)
 - [code-sleuth/test-helpers](https://github.com/code-sleuth/test-helpers) -  (1 day ago)
-- [code-sleuth/outh](https://github.com/code-sleuth/outh) - Auth service (6 days ago)
 - [meshery/meshery](https://github.com/meshery/meshery) - Meshery, the cloud native manager (3 months ago)
 - [code-sleuth/interwebs-presence](https://github.com/code-sleuth/interwebs-presence) -  (4 months ago)
 - [meshery/meshery-linkerd](https://github.com/meshery/meshery-linkerd) - Meshery adapter for Linkerd (4 months ago)
