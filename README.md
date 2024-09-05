@@ -5,14 +5,14 @@
 #### 👷 Check out what I'm currently working on
 
 - [code-sleuth/outh](https://github.com/code-sleuth/outh) - Auth service (today)
-- [code-sleuth/test-helpers](https://github.com/code-sleuth/test-helpers) -  (2 days ago)
+- [code-sleuth/test-helpers](https://github.com/code-sleuth/test-helpers) - macro api test helper for outh integration tests (2 days ago)
 - [meshery/meshery](https://github.com/meshery/meshery) - Meshery, the cloud native manager (3 months ago)
 - [code-sleuth/interwebs-presence](https://github.com/code-sleuth/interwebs-presence) -  (4 months ago)
 - [meshery/meshery-linkerd](https://github.com/meshery/meshery-linkerd) - Meshery adapter for Linkerd (4 months ago)
 
 #### 🌱 My latest projects
 
-- [code-sleuth/test-helpers](https://github.com/code-sleuth/test-helpers) - 
+- [code-sleuth/test-helpers](https://github.com/code-sleuth/test-helpers) - macro api test helper for outh integration tests
 - [code-sleuth/outh](https://github.com/code-sleuth/outh) - Auth service
 - [code-sleuth/interwebs-presence](https://github.com/code-sleuth/interwebs-presence) - 
 - [code-sleuth/read-from-redis](https://github.com/code-sleuth/read-from-redis) - script to read keys from redis with cluster mode enabled
@@ -25,11 +25,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [chore: integration tests](https://github.com/code-sleuth/outh/pull/21) on [code-sleuth/outh](https://github.com/code-sleuth/outh) (today)
 - [chore: x86_64](https://github.com/code-sleuth/outh/pull/19) on [code-sleuth/outh](https://github.com/code-sleuth/outh) (1 week ago)
 - [feat: split arm64 and x86_64 lambda dockerfiles](https://github.com/code-sleuth/outh/pull/18) on [code-sleuth/outh](https://github.com/code-sleuth/outh) (1 week ago)
 - [chore: bug fixes](https://github.com/code-sleuth/outh/pull/17) on [code-sleuth/outh](https://github.com/code-sleuth/outh) (1 week ago)
 - [feat: release dev](https://github.com/code-sleuth/outh/pull/16) on [code-sleuth/outh](https://github.com/code-sleuth/outh) (1 week ago)
-- [feat: support aws lambda deployment](https://github.com/code-sleuth/outh/pull/15) on [code-sleuth/outh](https://github.com/code-sleuth/outh) (1 week ago)
 
 #### 🌱📖 I’m currently learning
 - [LFS](https://www.linuxfromscratch.org/lfs/)
