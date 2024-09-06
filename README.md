@@ -4,8 +4,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [code-sleuth/outh](https://github.com/code-sleuth/outh) - Auth service (today)
-- [code-sleuth/test-helpers](https://github.com/code-sleuth/test-helpers) - macro api test helper for outh integration tests (2 days ago)
+- [code-sleuth/outh](https://github.com/code-sleuth/outh) - Auth service (1 day ago)
+- [code-sleuth/test-helpers](https://github.com/code-sleuth/test-helpers) - macro api test helper for outh integration tests (3 days ago)
 - [meshery/meshery](https://github.com/meshery/meshery) - Meshery, the cloud native manager (3 months ago)
 - [code-sleuth/interwebs-presence](https://github.com/code-sleuth/interwebs-presence) -  (4 months ago)
 - [meshery/meshery-linkerd](https://github.com/meshery/meshery-linkerd) - Meshery adapter for Linkerd (4 months ago)
@@ -20,12 +20,12 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [meshery/meshery](https://github.com/meshery/meshery) ([v0.7.93](https://github.com/meshery/meshery/releases/tag/v0.7.93), 1 day ago) - Meshery, the cloud native manager
+- [meshery/meshery](https://github.com/meshery/meshery) ([v0.7.93](https://github.com/meshery/meshery/releases/tag/v0.7.93), 2 days ago) - Meshery, the cloud native manager
 - [meshery/meshery-linkerd](https://github.com/meshery/meshery-linkerd) ([v0.6.13](https://github.com/meshery/meshery-linkerd/releases/tag/v0.6.13), 10 months ago) - Meshery adapter for Linkerd
 
 #### 🔨 My recent Pull Requests
 
-- [chore: integration tests](https://github.com/code-sleuth/outh/pull/21) on [code-sleuth/outh](https://github.com/code-sleuth/outh) (today)
+- [chore: integration tests](https://github.com/code-sleuth/outh/pull/21) on [code-sleuth/outh](https://github.com/code-sleuth/outh) (1 day ago)
 - [chore: x86_64](https://github.com/code-sleuth/outh/pull/19) on [code-sleuth/outh](https://github.com/code-sleuth/outh) (1 week ago)
 - [feat: split arm64 and x86_64 lambda dockerfiles](https://github.com/code-sleuth/outh/pull/18) on [code-sleuth/outh](https://github.com/code-sleuth/outh) (1 week ago)
 - [chore: bug fixes](https://github.com/code-sleuth/outh/pull/17) on [code-sleuth/outh](https://github.com/code-sleuth/outh) (1 week ago)
@@ -44,8 +44,8 @@
 
 #### ⭐ Recent Stars
 
-- [launchbadge/sqlx](https://github.com/launchbadge/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite. (2 days ago)
-- [bitbomdev/minefield](https://github.com/bitbomdev/minefield) - Graphing SBOM&#39;s Fast. (5 days ago)
+- [launchbadge/sqlx](https://github.com/launchbadge/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite. (3 days ago)
+- [bitbomdev/minefield](https://github.com/bitbomdev/minefield) - Graphing SBOM&#39;s Fast. (6 days ago)
 - [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for creating reliable and efficient web applications (1 week ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (2 weeks ago)
 - [helm/helm](https://github.com/helm/helm) - The Kubernetes Package Manager (2 weeks ago)
