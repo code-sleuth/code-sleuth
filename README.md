@@ -44,6 +44,8 @@
 
 #### ⭐ Recent Stars
 
+- [langyo/0721](https://github.com/langyo/0721) - The engine of image hosting written in Rust. (today)
+- [Jondolf/Algorust](https://github.com/Jondolf/Algorust) - Various algorithms visualized interactively on the web, entirely with Rust 🦀 (today)
 - [launchbadge/sqlx](https://github.com/launchbadge/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite. (6 days ago)
 - [bitbomdev/minefield](https://github.com/bitbomdev/minefield) - Graphing SBOM&#39;s Fast. (1 week ago)
 - [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for creating reliable and efficient web applications (1 week ago)
@@ -52,8 +54,6 @@
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.  (3 weeks ago)
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database. (3 weeks ago)
 - [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, cross-platform terminal for seamless workflows (1 month ago)
-- [bottlerocket-os/bottlerocket](https://github.com/bottlerocket-os/bottlerocket) - An operating system designed for hosting containers (4 months ago)
-- [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. (4 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
