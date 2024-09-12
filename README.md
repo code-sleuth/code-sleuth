@@ -4,7 +4,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [code-sleuth/outh](https://github.com/code-sleuth/outh) - Auth service (2 days ago)
+- [code-sleuth/outh](https://github.com/code-sleuth/outh) - Auth service (today)
 - [code-sleuth/test-helpers](https://github.com/code-sleuth/test-helpers) - macro api test helper for outh integration tests (1 week ago)
 - [meshery/meshery](https://github.com/meshery/meshery) - Meshery, the cloud native manager (4 months ago)
 - [code-sleuth/interwebs-presence](https://github.com/code-sleuth/interwebs-presence) -  (4 months ago)
@@ -25,11 +25,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: switch email client and use secrecy wrapper types for secret management](https://github.com/code-sleuth/outh/pull/22) on [code-sleuth/outh](https://github.com/code-sleuth/outh) (today)
 - [chore: integration tests](https://github.com/code-sleuth/outh/pull/21) on [code-sleuth/outh](https://github.com/code-sleuth/outh) (1 week ago)
 - [chore: x86_64](https://github.com/code-sleuth/outh/pull/19) on [code-sleuth/outh](https://github.com/code-sleuth/outh) (2 weeks ago)
 - [feat: split arm64 and x86_64 lambda dockerfiles](https://github.com/code-sleuth/outh/pull/18) on [code-sleuth/outh](https://github.com/code-sleuth/outh) (2 weeks ago)
 - [chore: bug fixes](https://github.com/code-sleuth/outh/pull/17) on [code-sleuth/outh](https://github.com/code-sleuth/outh) (2 weeks ago)
-- [feat: release dev](https://github.com/code-sleuth/outh/pull/16) on [code-sleuth/outh](https://github.com/code-sleuth/outh) (2 weeks ago)
 
 #### 🌱📖 I’m currently learning
 - [LFS](https://www.linuxfromscratch.org/lfs/)
