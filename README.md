@@ -60,11 +60,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [Ramyromel](https://github.com/Ramyromel)
 - [Kagendoooo](https://github.com/Kagendoooo)
 - [LucMuhizi](https://github.com/LucMuhizi)
 - [djarif6585](https://github.com/djarif6585)
 - [wosores](https://github.com/wosores)
-- [lfpratik](https://github.com/lfpratik)
 
 #### 💬 Feedback
 
