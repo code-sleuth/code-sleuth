@@ -4,7 +4,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [code-sleuth/outh](https://github.com/code-sleuth/outh) - Auth service (5 days ago)
+- [code-sleuth/outh](https://github.com/code-sleuth/outh) - Auth service (6 days ago)
 - [code-sleuth/test-helpers](https://github.com/code-sleuth/test-helpers) - macro api test helper for outh integration tests (2 weeks ago)
 - [meshery/meshery](https://github.com/meshery/meshery) - Meshery, the cloud native manager (4 months ago)
 - [code-sleuth/interwebs-presence](https://github.com/code-sleuth/interwebs-presence) -  (4 months ago)
@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [meshery/meshery](https://github.com/meshery/meshery) ([v0.7.103](https://github.com/meshery/meshery/releases/tag/v0.7.103), 2 days ago) - Meshery, the cloud native manager
+- [meshery/meshery](https://github.com/meshery/meshery) ([v0.7.103](https://github.com/meshery/meshery/releases/tag/v0.7.103), 3 days ago) - Meshery, the cloud native manager
 - [meshery/meshery-linkerd](https://github.com/meshery/meshery-linkerd) ([v0.6.13](https://github.com/meshery/meshery-linkerd/releases/tag/v0.6.13), 10 months ago) - Meshery adapter for Linkerd
 
 #### 🔨 My recent Pull Requests
@@ -44,6 +44,7 @@
 
 #### ⭐ Recent Stars
 
+- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books (1 day ago)
 - [langyo/0721](https://github.com/langyo/0721) - The engine of image hosting written in Rust. (1 week ago)
 - [Jondolf/Algorust](https://github.com/Jondolf/Algorust) - Various algorithms visualized interactively on the web, entirely with Rust 🦀 (1 week ago)
 - [launchbadge/sqlx](https://github.com/launchbadge/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite. (2 weeks ago)
@@ -53,7 +54,6 @@
 - [helm/helm](https://github.com/helm/helm) - The Kubernetes Package Manager (1 month ago)
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.  (1 month ago)
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database. (1 month ago)
-- [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, cross-platform terminal for seamless workflows (1 month ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
