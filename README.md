@@ -7,7 +7,7 @@
 - [code-sleuth/outh](https://github.com/code-sleuth/outh) - Auth service (2 weeks ago)
 - [code-sleuth/test-helpers](https://github.com/code-sleuth/test-helpers) - macro api test helper for outh integration tests (3 weeks ago)
 - [meshery/meshery](https://github.com/meshery/meshery) - Meshery, the cloud native manager (4 months ago)
-- [code-sleuth/interwebs-presence](https://github.com/code-sleuth/interwebs-presence) -  (4 months ago)
+- [code-sleuth/interwebs-presence](https://github.com/code-sleuth/interwebs-presence) -  (5 months ago)
 - [meshery/meshery-linkerd](https://github.com/meshery/meshery-linkerd) - Meshery adapter for Linkerd (5 months ago)
 
 #### 🌱 My latest projects
@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [meshery/meshery](https://github.com/meshery/meshery) ([v0.7.108](https://github.com/meshery/meshery/releases/tag/v0.7.108), 2 days ago) - Meshery, the cloud native manager
+- [meshery/meshery](https://github.com/meshery/meshery) ([v0.7.108](https://github.com/meshery/meshery/releases/tag/v0.7.108), 3 days ago) - Meshery, the cloud native manager
 - [meshery/meshery-linkerd](https://github.com/meshery/meshery-linkerd) ([v0.6.13](https://github.com/meshery/meshery-linkerd/releases/tag/v0.6.13), 10 months ago) - Meshery adapter for Linkerd
 
 #### 🔨 My recent Pull Requests
