@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [code-sleuth/ike-scripts](https://github.com/code-sleuth/ike-scripts) -  (today)
 - [code-sleuth/outh](https://github.com/code-sleuth/outh) - Auth service (2 weeks ago)
 - [code-sleuth/test-helpers](https://github.com/code-sleuth/test-helpers) - macro api test helper for outh integration tests (4 weeks ago)
 - [meshery/meshery](https://github.com/meshery/meshery) - Meshery, the cloud native manager (4 months ago)
 - [code-sleuth/interwebs-presence](https://github.com/code-sleuth/interwebs-presence) -  (5 months ago)
-- [meshery/meshery-linkerd](https://github.com/meshery/meshery-linkerd) - Meshery adapter for Linkerd (5 months ago)
 
 #### 🌱 My latest projects
 
