@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [meshery/meshery](https://github.com/meshery/meshery) ([v0.7.109](https://github.com/meshery/meshery/releases/tag/v0.7.109), 2 days ago) - Meshery, the cloud native manager
+- [meshery/meshery](https://github.com/meshery/meshery) ([v0.7.109](https://github.com/meshery/meshery/releases/tag/v0.7.109), 3 days ago) - Meshery, the cloud native manager
 - [meshery/meshery-linkerd](https://github.com/meshery/meshery-linkerd) ([v0.6.13](https://github.com/meshery/meshery-linkerd/releases/tag/v0.6.13), 10 months ago) - Meshery adapter for Linkerd
 
 #### 🔨 My recent Pull Requests
@@ -44,7 +44,7 @@
 
 #### ⭐ Recent Stars
 
-- [google/go-attestation](https://github.com/google/go-attestation) -  (today)
+- [google/go-attestation](https://github.com/google/go-attestation) -  (1 day ago)
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books (1 week ago)
 - [langyo/0721](https://github.com/langyo/0721) - The engine of image hosting written in Rust. (3 weeks ago)
 - [Jondolf/Algorust](https://github.com/Jondolf/Algorust) - Various algorithms visualized interactively on the web, entirely with Rust 🦀 (3 weeks ago)
