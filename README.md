@@ -12,11 +12,11 @@
 
 #### 🌱 My latest projects
 
+- [code-sleuth/ike-scripts](https://github.com/code-sleuth/ike-scripts) - 
 - [code-sleuth/test-helpers](https://github.com/code-sleuth/test-helpers) - macro api test helper for outh integration tests
 - [code-sleuth/outh](https://github.com/code-sleuth/outh) - Auth service
 - [code-sleuth/interwebs-presence](https://github.com/code-sleuth/interwebs-presence) - 
 - [code-sleuth/read-from-redis](https://github.com/code-sleuth/read-from-redis) - script to read keys from redis with cluster mode enabled
-- [code-sleuth/port_sniffer](https://github.com/code-sleuth/port_sniffer) - 
 
 #### 🔭 Latest releases I've contributed to
 
