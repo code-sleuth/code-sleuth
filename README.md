@@ -4,8 +4,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [code-sleuth/ike-scripts](https://github.com/code-sleuth/ike-scripts) -  (2 days ago)
-- [code-sleuth/outh](https://github.com/code-sleuth/outh) - Auth service (3 weeks ago)
+- [code-sleuth/ike-scripts](https://github.com/code-sleuth/ike-scripts) -  (3 days ago)
+- [code-sleuth/outh](https://github.com/code-sleuth/outh) - Auth service (4 weeks ago)
 - [code-sleuth/test-helpers](https://github.com/code-sleuth/test-helpers) - macro api test helper for outh integration tests (1 month ago)
 - [meshery/meshery](https://github.com/meshery/meshery) - Meshery, the cloud native manager (5 months ago)
 - [code-sleuth/interwebs-presence](https://github.com/code-sleuth/interwebs-presence) -  (5 months ago)
@@ -20,12 +20,12 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [meshery/meshery](https://github.com/meshery/meshery) ([v0.7.121](https://github.com/meshery/meshery/releases/tag/v0.7.121), 3 days ago) - Meshery, the cloud native manager
+- [meshery/meshery](https://github.com/meshery/meshery) ([v0.7.121](https://github.com/meshery/meshery/releases/tag/v0.7.121), 4 days ago) - Meshery, the cloud native manager
 - [meshery/meshery-linkerd](https://github.com/meshery/meshery-linkerd) ([v0.6.13](https://github.com/meshery/meshery-linkerd/releases/tag/v0.6.13), 11 months ago) - Meshery adapter for Linkerd
 
 #### 🔨 My recent Pull Requests
 
-- [feat: switch email client and use secrecy wrapper types for secret management](https://github.com/code-sleuth/outh/pull/22) on [code-sleuth/outh](https://github.com/code-sleuth/outh) (4 weeks ago)
+- [feat: switch email client and use secrecy wrapper types for secret management](https://github.com/code-sleuth/outh/pull/22) on [code-sleuth/outh](https://github.com/code-sleuth/outh) (1 month ago)
 - [chore: integration tests](https://github.com/code-sleuth/outh/pull/21) on [code-sleuth/outh](https://github.com/code-sleuth/outh) (1 month ago)
 - [chore: x86_64](https://github.com/code-sleuth/outh/pull/19) on [code-sleuth/outh](https://github.com/code-sleuth/outh) (1 month ago)
 - [feat: split arm64 and x86_64 lambda dockerfiles](https://github.com/code-sleuth/outh/pull/18) on [code-sleuth/outh](https://github.com/code-sleuth/outh) (1 month ago)
