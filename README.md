@@ -12,15 +12,15 @@
 
 #### 🌱 My latest projects
 
+- [code-sleuth/rotate-aws-secrets](https://github.com/code-sleuth/rotate-aws-secrets) - 
 - [code-sleuth/ike-scripts](https://github.com/code-sleuth/ike-scripts) - 
 - [code-sleuth/test-helpers](https://github.com/code-sleuth/test-helpers) - macro api test helper for outh integration tests
 - [code-sleuth/outh](https://github.com/code-sleuth/outh) - Auth service
 - [code-sleuth/interwebs-presence](https://github.com/code-sleuth/interwebs-presence) - 
-- [code-sleuth/read-from-redis](https://github.com/code-sleuth/read-from-redis) - script to read keys from redis with cluster mode enabled
 
 #### 🔭 Latest releases I've contributed to
 
-- [meshery/meshery](https://github.com/meshery/meshery) ([v0.7.122](https://github.com/meshery/meshery/releases/tag/v0.7.122), 2 days ago) - Meshery, the cloud native manager
+- [meshery/meshery](https://github.com/meshery/meshery) ([v0.7.123](https://github.com/meshery/meshery/releases/tag/v0.7.123), today) - Meshery, the cloud native manager
 - [meshery/meshery-linkerd](https://github.com/meshery/meshery-linkerd) ([v0.6.13](https://github.com/meshery/meshery-linkerd/releases/tag/v0.6.13), 11 months ago) - Meshery adapter for Linkerd
 
 #### 🔨 My recent Pull Requests
