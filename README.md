@@ -4,15 +4,15 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [code-sleuth/rotate-aws-secrets](https://github.com/code-sleuth/rotate-aws-secrets) - cli for securely rotating AWS secrets and access keys. (today)
 - [code-sleuth/ike-scripts](https://github.com/code-sleuth/ike-scripts) -  (2 days ago)
 - [code-sleuth/outh](https://github.com/code-sleuth/outh) - Auth service (1 month ago)
 - [code-sleuth/test-helpers](https://github.com/code-sleuth/test-helpers) - macro api test helper for outh integration tests (1 month ago)
 - [meshery/meshery](https://github.com/meshery/meshery) - Meshery, the cloud native manager (5 months ago)
-- [code-sleuth/interwebs-presence](https://github.com/code-sleuth/interwebs-presence) -  (5 months ago)
 
 #### 🌱 My latest projects
 
-- [code-sleuth/rotate-aws-secrets](https://github.com/code-sleuth/rotate-aws-secrets) - 
+- [code-sleuth/rotate-aws-secrets](https://github.com/code-sleuth/rotate-aws-secrets) - cli for securely rotating AWS secrets and access keys.
 - [code-sleuth/ike-scripts](https://github.com/code-sleuth/ike-scripts) - 
 - [code-sleuth/test-helpers](https://github.com/code-sleuth/test-helpers) - macro api test helper for outh integration tests
 - [code-sleuth/outh](https://github.com/code-sleuth/outh) - Auth service
