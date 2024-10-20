@@ -44,6 +44,7 @@
 
 #### ⭐ Recent Stars
 
+- [lichess-org/fishnet](https://github.com/lichess-org/fishnet) - Distributed Stockfish analysis for lichess.org (today)
 - [google/go-attestation](https://github.com/google/go-attestation) -  (2 weeks ago)
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books (1 month ago)
 - [langyo/0721](https://github.com/langyo/0721) - The engine of image hosting written in Rust. (1 month ago)
@@ -53,7 +54,6 @@
 - [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for creating reliable and efficient web applications (1 month ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (2 months ago)
 - [helm/helm](https://github.com/helm/helm) - The Kubernetes Package Manager (2 months ago)
-- [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.  (2 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
