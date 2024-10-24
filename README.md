@@ -44,6 +44,7 @@
 
 #### ⭐ Recent Stars
 
+- [meshery/meshery](https://github.com/meshery/meshery) - Meshery, the cloud native manager (today)
 - [lichess-org/fishnet](https://github.com/lichess-org/fishnet) - Distributed Stockfish analysis for lichess.org (4 days ago)
 - [google/go-attestation](https://github.com/google/go-attestation) -  (3 weeks ago)
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books (1 month ago)
@@ -53,7 +54,6 @@
 - [bitbomdev/minefield](https://github.com/bitbomdev/minefield) - Graphing SBOM&#39;s Fast. (1 month ago)
 - [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for creating reliable and efficient web applications (1 month ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (2 months ago)
-- [helm/helm](https://github.com/helm/helm) - The Kubernetes Package Manager (2 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
