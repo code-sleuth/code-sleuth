@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [meshery/meshery](https://github.com/meshery/meshery) ([v0.7.127](https://github.com/meshery/meshery/releases/tag/v0.7.127), 1 day ago) - Meshery, the cloud native manager
+- [meshery/meshery](https://github.com/meshery/meshery) ([v0.7.127](https://github.com/meshery/meshery/releases/tag/v0.7.127), 2 days ago) - Meshery, the cloud native manager
 - [meshery/meshery-linkerd](https://github.com/meshery/meshery-linkerd) ([v0.6.13](https://github.com/meshery/meshery-linkerd/releases/tag/v0.6.13), 11 months ago) - Meshery adapter for Linkerd
 
 #### 🔨 My recent Pull Requests
@@ -44,9 +44,9 @@
 
 #### ⭐ Recent Stars
 
-- [pepperoni21/ollama-rs](https://github.com/pepperoni21/ollama-rs) - A Rust library allowing to interact with the Ollama API. (2 days ago)
-- [meshery/meshery](https://github.com/meshery/meshery) - Meshery, the cloud native manager (2 days ago)
-- [lichess-org/fishnet](https://github.com/lichess-org/fishnet) - Distributed Stockfish analysis for lichess.org (6 days ago)
+- [pepperoni21/ollama-rs](https://github.com/pepperoni21/ollama-rs) - A Rust library allowing to interact with the Ollama API. (3 days ago)
+- [meshery/meshery](https://github.com/meshery/meshery) - Meshery, the cloud native manager (3 days ago)
+- [lichess-org/fishnet](https://github.com/lichess-org/fishnet) - Distributed Stockfish analysis for lichess.org (1 week ago)
 - [google/go-attestation](https://github.com/google/go-attestation) -  (3 weeks ago)
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books (1 month ago)
 - [langyo/0721](https://github.com/langyo/0721) - The engine of image hosting written in Rust. (1 month ago)
