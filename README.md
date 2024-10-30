@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [meshery/meshery](https://github.com/meshery/meshery) ([v0.7.128](https://github.com/meshery/meshery/releases/tag/v0.7.128), 2 days ago) - Meshery, the cloud native manager
+- [meshery/meshery](https://github.com/meshery/meshery) ([v0.7.129](https://github.com/meshery/meshery/releases/tag/v0.7.129), today) - Meshery, the cloud native manager
 - [meshery/meshery-linkerd](https://github.com/meshery/meshery-linkerd) ([v0.6.13](https://github.com/meshery/meshery-linkerd/releases/tag/v0.6.13), 11 months ago) - Meshery adapter for Linkerd
 
 #### 🔨 My recent Pull Requests
