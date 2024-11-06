@@ -4,7 +4,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [code-sleuth/outh](https://github.com/code-sleuth/outh) - Auth service (5 days ago)
+- [code-sleuth/outh](https://github.com/code-sleuth/outh) - Auth service (6 days ago)
 - [code-sleuth/ike-scripts](https://github.com/code-sleuth/ike-scripts) -  (2 weeks ago)
 - [code-sleuth/rotate-aws-secrets](https://github.com/code-sleuth/rotate-aws-secrets) - cli for securely rotating AWS secrets and access keys. (2 weeks ago)
 - [code-sleuth/test-helpers](https://github.com/code-sleuth/test-helpers) - macro api test helper for outh integration tests (2 months ago)
@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [meshery/meshery](https://github.com/meshery/meshery) ([v0.7.135](https://github.com/meshery/meshery/releases/tag/v0.7.135), today) - Meshery, the cloud native manager
+- [meshery/meshery](https://github.com/meshery/meshery) ([v0.7.135](https://github.com/meshery/meshery/releases/tag/v0.7.135), 1 day ago) - Meshery, the cloud native manager
 - [meshery/meshery-linkerd](https://github.com/meshery/meshery-linkerd) ([v0.6.13](https://github.com/meshery/meshery-linkerd/releases/tag/v0.6.13), 1 year ago) - Meshery adapter for Linkerd
 
 #### 🔨 My recent Pull Requests
