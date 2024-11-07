@@ -4,7 +4,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [code-sleuth/outh](https://github.com/code-sleuth/outh) - Auth service (6 days ago)
+- [code-sleuth/outh](https://github.com/code-sleuth/outh) - Auth service (1 week ago)
 - [code-sleuth/ike-scripts](https://github.com/code-sleuth/ike-scripts) -  (2 weeks ago)
 - [code-sleuth/rotate-aws-secrets](https://github.com/code-sleuth/rotate-aws-secrets) - cli for securely rotating AWS secrets and access keys. (2 weeks ago)
 - [code-sleuth/test-helpers](https://github.com/code-sleuth/test-helpers) - macro api test helper for outh integration tests (2 months ago)
@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [meshery/meshery](https://github.com/meshery/meshery) ([v0.7.136](https://github.com/meshery/meshery/releases/tag/v0.7.136), today) - Meshery, the cloud native manager
+- [meshery/meshery](https://github.com/meshery/meshery) ([v0.7.136](https://github.com/meshery/meshery/releases/tag/v0.7.136), 1 day ago) - Meshery, the cloud native manager
 - [meshery/meshery-linkerd](https://github.com/meshery/meshery-linkerd) ([v0.6.13](https://github.com/meshery/meshery-linkerd/releases/tag/v0.6.13), 1 year ago) - Meshery adapter for Linkerd
 
 #### 🔨 My recent Pull Requests
@@ -44,8 +44,8 @@
 
 #### ⭐ Recent Stars
 
-- [pepperoni21/ollama-rs](https://github.com/pepperoni21/ollama-rs) - A Rust library allowing to interact with the Ollama API. (1 week ago)
-- [meshery/meshery](https://github.com/meshery/meshery) - Meshery, the cloud native manager (1 week ago)
+- [pepperoni21/ollama-rs](https://github.com/pepperoni21/ollama-rs) - A Rust library allowing to interact with the Ollama API. (2 weeks ago)
+- [meshery/meshery](https://github.com/meshery/meshery) - Meshery, the cloud native manager (2 weeks ago)
 - [lichess-org/fishnet](https://github.com/lichess-org/fishnet) - Distributed Stockfish analysis for lichess.org (2 weeks ago)
 - [google/go-attestation](https://github.com/google/go-attestation) -  (1 month ago)
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books (1 month ago)
