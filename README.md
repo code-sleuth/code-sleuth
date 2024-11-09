@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [code-sleuth/xv6-labs-2020](https://github.com/code-sleuth/xv6-labs-2020) - xv6 for RISC-V  (today)
 - [code-sleuth/outh](https://github.com/code-sleuth/outh) - Auth service (1 week ago)
 - [code-sleuth/ike-scripts](https://github.com/code-sleuth/ike-scripts) -  (3 weeks ago)
 - [code-sleuth/rotate-aws-secrets](https://github.com/code-sleuth/rotate-aws-secrets) - cli for securely rotating AWS secrets and access keys. (3 weeks ago)
 - [code-sleuth/test-helpers](https://github.com/code-sleuth/test-helpers) - macro api test helper for outh integration tests (2 months ago)
-- [meshery/meshery](https://github.com/meshery/meshery) - Meshery, the cloud native manager (6 months ago)
 
 #### 🌱 My latest projects
 
@@ -25,11 +25,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: comply with risc-v specification on boot](https://github.com/code-sleuth/xv6-labs-2020/pull/2) on [code-sleuth/xv6-labs-2020](https://github.com/code-sleuth/xv6-labs-2020) (today)
+- [chore: add pr and issue templates](https://github.com/code-sleuth/xv6-labs-2020/pull/1) on [code-sleuth/xv6-labs-2020](https://github.com/code-sleuth/xv6-labs-2020) (today)
 - [feat: switch email client and use secrecy wrapper types for secret management](https://github.com/code-sleuth/outh/pull/22) on [code-sleuth/outh](https://github.com/code-sleuth/outh) (1 month ago)
 - [chore: integration tests](https://github.com/code-sleuth/outh/pull/21) on [code-sleuth/outh](https://github.com/code-sleuth/outh) (2 months ago)
 - [chore: x86_64](https://github.com/code-sleuth/outh/pull/19) on [code-sleuth/outh](https://github.com/code-sleuth/outh) (2 months ago)
-- [feat: split arm64 and x86_64 lambda dockerfiles](https://github.com/code-sleuth/outh/pull/18) on [code-sleuth/outh](https://github.com/code-sleuth/outh) (2 months ago)
-- [chore: bug fixes](https://github.com/code-sleuth/outh/pull/17) on [code-sleuth/outh](https://github.com/code-sleuth/outh) (2 months ago)
 
 #### 🌱📖 I’m currently learning
 - [LFS](https://www.linuxfromscratch.org/lfs/)
