@@ -25,11 +25,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [chore: document common build errors &amp; example program](https://github.com/csklub/SG-operating-systems/pull/2) on [csklub/SG-operating-systems](https://github.com/csklub/SG-operating-systems) (today)
 - [docs: setup guide](https://github.com/csklub/SG-operating-systems/pull/1) on [csklub/SG-operating-systems](https://github.com/csklub/SG-operating-systems) (2 days ago)
 - [feat: comply with risc-v specification on boot](https://github.com/code-sleuth/xv6-labs-2020/pull/2) on [code-sleuth/xv6-labs-2020](https://github.com/code-sleuth/xv6-labs-2020) (6 days ago)
 - [chore: add pr and issue templates](https://github.com/code-sleuth/xv6-labs-2020/pull/1) on [code-sleuth/xv6-labs-2020](https://github.com/code-sleuth/xv6-labs-2020) (6 days ago)
 - [feat: switch email client and use secrecy wrapper types for secret management](https://github.com/code-sleuth/outh/pull/22) on [code-sleuth/outh](https://github.com/code-sleuth/outh) (2 months ago)
-- [chore: integration tests](https://github.com/code-sleuth/outh/pull/21) on [code-sleuth/outh](https://github.com/code-sleuth/outh) (2 months ago)
 
 #### 🌱📖 I’m currently learning
 - [LFS](https://www.linuxfromscratch.org/lfs/)
