@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [csklub/SG-operating-systems](https://github.com/csklub/SG-operating-systems) - The operating systems study group playing ground. (5 days ago)
+- [csklub/SG-operating-systems](https://github.com/csklub/SG-operating-systems) - The operating systems study group playing ground. (today)
 - [code-sleuth/xv6-labs-2020](https://github.com/code-sleuth/xv6-labs-2020) - xv6 for RISC-V  (1 week ago)
 - [code-sleuth/outh](https://github.com/code-sleuth/outh) - Auth service (2 weeks ago)
-- [code-sleuth/ike-scripts](https://github.com/code-sleuth/ike-scripts) -  (1 month ago)
 - [code-sleuth/rotate-aws-secrets](https://github.com/code-sleuth/rotate-aws-secrets) - cli for securely rotating AWS secrets and access keys. (1 month ago)
+- [code-sleuth/ike-scripts](https://github.com/code-sleuth/ike-scripts) -  (1 month ago)
 
 #### 🌱 My latest projects
 
