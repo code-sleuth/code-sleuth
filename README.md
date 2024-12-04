@@ -4,7 +4,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [csklub/SG-operating-systems](https://github.com/csklub/SG-operating-systems) - The operating systems study group playing ground. (1 week ago)
+- [csklub/SG-operating-systems](https://github.com/csklub/SG-operating-systems) - The operating systems study group playing ground. (2 weeks ago)
 - [code-sleuth/xv6-labs-2020](https://github.com/code-sleuth/xv6-labs-2020) - xv6 for RISC-V  (3 weeks ago)
 - [code-sleuth/outh](https://github.com/code-sleuth/outh) - Auth service (1 month ago)
 - [code-sleuth/ike-scripts](https://github.com/code-sleuth/ike-scripts) -  (1 month ago)
@@ -20,13 +20,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [meshery/meshery](https://github.com/meshery/meshery) ([v0.7.167](https://github.com/meshery/meshery/releases/tag/v0.7.167), today) - Meshery, the cloud native manager
+- [meshery/meshery](https://github.com/meshery/meshery) ([v0.7.167](https://github.com/meshery/meshery/releases/tag/v0.7.167), 1 day ago) - Meshery, the cloud native manager
 - [meshery/meshery-linkerd](https://github.com/meshery/meshery-linkerd) ([v0.6.13](https://github.com/meshery/meshery-linkerd/releases/tag/v0.6.13), 1 year ago) - Meshery adapter for Linkerd
 
 #### 🔨 My recent Pull Requests
 
 - [chore: document common build errors &amp; example program](https://github.com/csklub/SG-operating-systems/pull/2) on [csklub/SG-operating-systems](https://github.com/csklub/SG-operating-systems) (2 weeks ago)
-- [docs: setup guide](https://github.com/csklub/SG-operating-systems/pull/1) on [csklub/SG-operating-systems](https://github.com/csklub/SG-operating-systems) (2 weeks ago)
+- [docs: setup guide](https://github.com/csklub/SG-operating-systems/pull/1) on [csklub/SG-operating-systems](https://github.com/csklub/SG-operating-systems) (3 weeks ago)
 - [feat: comply with risc-v specification on boot](https://github.com/code-sleuth/xv6-labs-2020/pull/2) on [code-sleuth/xv6-labs-2020](https://github.com/code-sleuth/xv6-labs-2020) (3 weeks ago)
 - [chore: add pr and issue templates](https://github.com/code-sleuth/xv6-labs-2020/pull/1) on [code-sleuth/xv6-labs-2020](https://github.com/code-sleuth/xv6-labs-2020) (3 weeks ago)
 - [feat: switch email client and use secrecy wrapper types for secret management](https://github.com/code-sleuth/outh/pull/22) on [code-sleuth/outh](https://github.com/code-sleuth/outh) (2 months ago)
