@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [meshery/meshery](https://github.com/meshery/meshery) ([v0.7.167](https://github.com/meshery/meshery/releases/tag/v0.7.167), 4 days ago) - Meshery, the cloud native manager
+- [meshery/meshery](https://github.com/meshery/meshery) ([v0.7.167](https://github.com/meshery/meshery/releases/tag/v0.7.167), 5 days ago) - Meshery, the cloud native manager
 - [meshery/meshery-linkerd](https://github.com/meshery/meshery-linkerd) ([v0.6.13](https://github.com/meshery/meshery-linkerd/releases/tag/v0.6.13), 1 year ago) - Meshery adapter for Linkerd
 
 #### 🔨 My recent Pull Requests
@@ -50,8 +50,8 @@
 - [lichess-org/fishnet](https://github.com/lichess-org/fishnet) - Distributed Stockfish analysis for lichess.org (1 month ago)
 - [google/go-attestation](https://github.com/google/go-attestation) -  (2 months ago)
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books (2 months ago)
-- [langyo/0721](https://github.com/langyo/0721) - The engine of image hosting written in Rust. (2 months ago)
-- [Jondolf/Algorust](https://github.com/Jondolf/Algorust) - Various algorithms visualized interactively on the web, entirely with Rust 🦀 (2 months ago)
+- [langyo/0721](https://github.com/langyo/0721) - The engine of image hosting written in Rust. (3 months ago)
+- [Jondolf/Algorust](https://github.com/Jondolf/Algorust) - Various algorithms visualized interactively on the web, entirely with Rust 🦀 (3 months ago)
 - [launchbadge/sqlx](https://github.com/launchbadge/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite. (3 months ago)
 - [bitbomdev/minefield](https://github.com/bitbomdev/minefield) - Graphing SBOM&#39;s Fast. (3 months ago)
 
