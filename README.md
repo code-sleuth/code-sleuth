@@ -20,13 +20,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [meshery/meshery](https://github.com/meshery/meshery) ([v0.7.168](https://github.com/meshery/meshery/releases/tag/v0.7.168), 3 days ago) - Meshery, the cloud native manager
+- [meshery/meshery](https://github.com/meshery/meshery) ([v0.7.168](https://github.com/meshery/meshery/releases/tag/v0.7.168), 4 days ago) - Meshery, the cloud native manager
 - [meshery/meshery-linkerd](https://github.com/meshery/meshery-linkerd) ([v0.6.13](https://github.com/meshery/meshery-linkerd/releases/tag/v0.6.13), 1 year ago) - Meshery adapter for Linkerd
 
 #### 🔨 My recent Pull Requests
 
-- [chore: document common build errors &amp; example program](https://github.com/csklub/SG-operating-systems/pull/2) on [csklub/SG-operating-systems](https://github.com/csklub/SG-operating-systems) (3 weeks ago)
-- [docs: setup guide](https://github.com/csklub/SG-operating-systems/pull/1) on [csklub/SG-operating-systems](https://github.com/csklub/SG-operating-systems) (4 weeks ago)
+- [chore: document common build errors &amp; example program](https://github.com/csklub/SG-operating-systems/pull/2) on [csklub/SG-operating-systems](https://github.com/csklub/SG-operating-systems) (4 weeks ago)
+- [docs: setup guide](https://github.com/csklub/SG-operating-systems/pull/1) on [csklub/SG-operating-systems](https://github.com/csklub/SG-operating-systems) (1 month ago)
 - [feat: comply with risc-v specification on boot](https://github.com/code-sleuth/xv6-labs-2020/pull/2) on [code-sleuth/xv6-labs-2020](https://github.com/code-sleuth/xv6-labs-2020) (1 month ago)
 - [chore: add pr and issue templates](https://github.com/code-sleuth/xv6-labs-2020/pull/1) on [code-sleuth/xv6-labs-2020](https://github.com/code-sleuth/xv6-labs-2020) (1 month ago)
 - [feat: switch email client and use secrecy wrapper types for secret management](https://github.com/code-sleuth/outh/pull/22) on [code-sleuth/outh](https://github.com/code-sleuth/outh) (3 months ago)
