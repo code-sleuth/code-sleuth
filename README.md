@@ -60,11 +60,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [Anon23261](https://github.com/Anon23261)
 - [Gidraff](https://github.com/Gidraff)
 - [Ramyromel](https://github.com/Ramyromel)
 - [Kagendoooo](https://github.com/Kagendoooo)
 - [LucMuhizi](https://github.com/LucMuhizi)
-- [djarif6585](https://github.com/djarif6585)
 
 #### 💬 Feedback
 
