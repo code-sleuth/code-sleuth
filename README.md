@@ -4,7 +4,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [csklub/SG-operating-systems](https://github.com/csklub/SG-operating-systems) - The operating systems study group playing ground. (3 weeks ago)
+- [csklub/SG-operating-systems](https://github.com/csklub/SG-operating-systems) - The operating systems study group playing ground. (4 weeks ago)
 - [code-sleuth/xv6-labs-2020](https://github.com/code-sleuth/xv6-labs-2020) - xv6 for RISC-V  (1 month ago)
 - [code-sleuth/outh](https://github.com/code-sleuth/outh) - Auth service (1 month ago)
 - [code-sleuth/rotate-aws-secrets](https://github.com/code-sleuth/rotate-aws-secrets) - cli for securely rotating AWS secrets and access keys. (2 months ago)
@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [meshery/meshery](https://github.com/meshery/meshery) ([v0.7.170](https://github.com/meshery/meshery/releases/tag/v0.7.170), 1 day ago) - Meshery, the cloud native manager
+- [meshery/meshery](https://github.com/meshery/meshery) ([v0.7.170](https://github.com/meshery/meshery/releases/tag/v0.7.170), 2 days ago) - Meshery, the cloud native manager
 - [meshery/meshery-linkerd](https://github.com/meshery/meshery-linkerd) ([v0.6.13](https://github.com/meshery/meshery-linkerd/releases/tag/v0.6.13), 1 year ago) - Meshery adapter for Linkerd
 
 #### 🔨 My recent Pull Requests
@@ -49,7 +49,7 @@
 - [meshery/meshery](https://github.com/meshery/meshery) - Meshery, the cloud native manager (1 month ago)
 - [lichess-org/fishnet](https://github.com/lichess-org/fishnet) - Distributed Stockfish analysis for lichess.org (1 month ago)
 - [google/go-attestation](https://github.com/google/go-attestation) -  (2 months ago)
-- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books (2 months ago)
+- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books (3 months ago)
 - [langyo/0721](https://github.com/langyo/0721) - The engine of image hosting written in Rust. (3 months ago)
 - [Jondolf/Algorust](https://github.com/Jondolf/Algorust) - Various algorithms visualized interactively on the web, entirely with Rust 🦀 (3 months ago)
 - [launchbadge/sqlx](https://github.com/launchbadge/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite. (3 months ago)
@@ -60,11 +60,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [ipqwery](https://github.com/ipqwery)
 - [Anon23261](https://github.com/Anon23261)
 - [Gidraff](https://github.com/Gidraff)
 - [Ramyromel](https://github.com/Ramyromel)
 - [Kagendoooo](https://github.com/Kagendoooo)
-- [LucMuhizi](https://github.com/LucMuhizi)
 
 #### 💬 Feedback
 
