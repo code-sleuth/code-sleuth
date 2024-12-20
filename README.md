@@ -44,6 +44,7 @@
 
 #### ⭐ Recent Stars
 
+- [negrel/secrecy](https://github.com/negrel/secrecy) - 🤫 A simple secret-keeping library for Go. (today)
 - [kube-rs/kube](https://github.com/kube-rs/kube) - Rust Kubernetes client and controller runtime (2 days ago)
 - [not-an-aardvark/lucky-commit](https://github.com/not-an-aardvark/lucky-commit) - Customize your git commit hashes! (1 month ago)
 - [pepperoni21/ollama-rs](https://github.com/pepperoni21/ollama-rs) - A Rust library allowing to interact with the Ollama API. (1 month ago)
@@ -53,7 +54,6 @@
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books (3 months ago)
 - [langyo/0721](https://github.com/langyo/0721) - The engine of image hosting written in Rust. (3 months ago)
 - [Jondolf/Algorust](https://github.com/Jondolf/Algorust) - Various algorithms visualized interactively on the web, entirely with Rust 🦀 (3 months ago)
-- [launchbadge/sqlx](https://github.com/launchbadge/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite. (3 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
