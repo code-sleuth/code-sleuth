@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [meshery/meshery](https://github.com/meshery/meshery) ([v0.8.0](https://github.com/meshery/meshery/releases/tag/v0.8.0), 3 days ago) - Meshery, the cloud native manager
+- [meshery/meshery](https://github.com/meshery/meshery) ([v0.8.0](https://github.com/meshery/meshery/releases/tag/v0.8.0), 4 days ago) - Meshery, the cloud native manager
 - [meshery/meshery-linkerd](https://github.com/meshery/meshery-linkerd) ([v0.6.13](https://github.com/meshery/meshery-linkerd/releases/tag/v0.6.13), 1 year ago) - Meshery adapter for Linkerd
 
 #### 🔨 My recent Pull Requests
@@ -44,8 +44,8 @@
 
 #### ⭐ Recent Stars
 
-- [negrel/secrecy](https://github.com/negrel/secrecy) - 🤫 A simple secret-keeping library for Go. (3 days ago)
-- [kube-rs/kube](https://github.com/kube-rs/kube) - Rust Kubernetes client and controller runtime (5 days ago)
+- [negrel/secrecy](https://github.com/negrel/secrecy) - 🤫 A simple secret-keeping library for Go. (4 days ago)
+- [kube-rs/kube](https://github.com/kube-rs/kube) - Rust Kubernetes client and controller runtime (6 days ago)
 - [not-an-aardvark/lucky-commit](https://github.com/not-an-aardvark/lucky-commit) - Customize your git commit hashes! (1 month ago)
 - [pepperoni21/ollama-rs](https://github.com/pepperoni21/ollama-rs) - A Rust library allowing to interact with the Ollama API. (2 months ago)
 - [meshery/meshery](https://github.com/meshery/meshery) - Meshery, the cloud native manager (2 months ago)
