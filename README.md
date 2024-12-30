@@ -44,6 +44,7 @@
 
 #### ⭐ Recent Stars
 
+- [brndnmtthws/idiomatic-rust-book](https://github.com/brndnmtthws/idiomatic-rust-book) - Source code for Idiomatic Rust: Code like a Rustacean (today)
 - [negrel/secrecy](https://github.com/negrel/secrecy) - 🤫 A simple secret-keeping library for Go. (1 week ago)
 - [kube-rs/kube](https://github.com/kube-rs/kube) - Rust Kubernetes client and controller runtime (1 week ago)
 - [not-an-aardvark/lucky-commit](https://github.com/not-an-aardvark/lucky-commit) - Customize your git commit hashes! (1 month ago)
@@ -53,7 +54,6 @@
 - [google/go-attestation](https://github.com/google/go-attestation) -  (3 months ago)
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books (3 months ago)
 - [langyo/0721](https://github.com/langyo/0721) - The engine of image hosting written in Rust. (3 months ago)
-- [Jondolf/Algorust](https://github.com/Jondolf/Algorust) - Various algorithms visualized interactively on the web, entirely with Rust 🦀 (3 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
