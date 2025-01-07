@@ -20,8 +20,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [meshery/meshery](https://github.com/meshery/meshery) ([v0.8.4](https://github.com/meshery/meshery/releases/tag/v0.8.4), 1 day ago) - Meshery, the cloud native manager
-- [meshery/meshery-linkerd](https://github.com/meshery/meshery-linkerd) ([v0.8.0](https://github.com/meshery/meshery-linkerd/releases/tag/v0.8.0), 1 week ago) - Meshery adapter for Linkerd
+- [meshery/meshery](https://github.com/meshery/meshery) ([v0.8.4](https://github.com/meshery/meshery/releases/tag/v0.8.4), 2 days ago) - Meshery, the cloud native manager
+- [meshery/meshery-linkerd](https://github.com/meshery/meshery-linkerd) ([v0.8.0](https://github.com/meshery/meshery-linkerd/releases/tag/v0.8.0), 2 weeks ago) - Meshery adapter for Linkerd
 
 #### 🔨 My recent Pull Requests
 
@@ -53,7 +53,7 @@
 - [lichess-org/fishnet](https://github.com/lichess-org/fishnet) - Distributed Stockfish analysis for lichess.org (2 months ago)
 - [google/go-attestation](https://github.com/google/go-attestation) -  (3 months ago)
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books (3 months ago)
-- [langyo/0721](https://github.com/langyo/0721) - The engine of image hosting written in Rust. (3 months ago)
+- [langyo/0721](https://github.com/langyo/0721) - The engine of image hosting written in Rust. (4 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
