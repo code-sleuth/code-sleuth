@@ -25,11 +25,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [chore: publish binary to github release from release-plz workflow](https://github.com/release-plz/release-plz/pull/1968) on [release-plz/release-plz](https://github.com/release-plz/release-plz) (today)
 - [chore: document common build errors &amp; example program](https://github.com/csklub/SG-operating-systems/pull/2) on [csklub/SG-operating-systems](https://github.com/csklub/SG-operating-systems) (1 month ago)
 - [docs: setup guide](https://github.com/csklub/SG-operating-systems/pull/1) on [csklub/SG-operating-systems](https://github.com/csklub/SG-operating-systems) (1 month ago)
 - [feat: comply with risc-v specification on boot](https://github.com/code-sleuth/xv6-labs-2020/pull/2) on [code-sleuth/xv6-labs-2020](https://github.com/code-sleuth/xv6-labs-2020) (2 months ago)
 - [chore: add pr and issue templates](https://github.com/code-sleuth/xv6-labs-2020/pull/1) on [code-sleuth/xv6-labs-2020](https://github.com/code-sleuth/xv6-labs-2020) (2 months ago)
-- [feat: switch email client and use secrecy wrapper types for secret management](https://github.com/code-sleuth/outh/pull/22) on [code-sleuth/outh](https://github.com/code-sleuth/outh) (3 months ago)
 
 #### 🌱📖 I’m currently learning
 - [LFS](https://www.linuxfromscratch.org/lfs/)
@@ -44,6 +44,7 @@
 
 #### ⭐ Recent Stars
 
+- [release-plz/release-plz](https://github.com/release-plz/release-plz) - Publish Rust crates from CI with a Release PR. (today)
 - [release-plz/action](https://github.com/release-plz/action) - GitHub action for https://github.com/MarcoIeni/release-plz (today)
 - [brndnmtthws/idiomatic-rust-book](https://github.com/brndnmtthws/idiomatic-rust-book) - Source code for Idiomatic Rust: Code like a Rustacean (1 week ago)
 - [negrel/secrecy](https://github.com/negrel/secrecy) - 🤫 A simple secret-keeping library for Go. (2 weeks ago)
@@ -53,7 +54,6 @@
 - [meshery/meshery](https://github.com/meshery/meshery) - Meshery, the cloud native manager (2 months ago)
 - [lichess-org/fishnet](https://github.com/lichess-org/fishnet) - Distributed Stockfish analysis for lichess.org (2 months ago)
 - [google/go-attestation](https://github.com/google/go-attestation) -  (3 months ago)
-- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books (3 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
