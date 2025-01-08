@@ -5,7 +5,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [csklub/SG-operating-systems](https://github.com/csklub/SG-operating-systems) - The operating systems study group playing ground. (1 month ago)
-- [code-sleuth/xv6-labs-2020](https://github.com/code-sleuth/xv6-labs-2020) - xv6 for RISC-V  (1 month ago)
+- [code-sleuth/xv6-labs-2020](https://github.com/code-sleuth/xv6-labs-2020) - xv6 for RISC-V  (2 months ago)
 - [code-sleuth/outh](https://github.com/code-sleuth/outh) - Auth service (2 months ago)
 - [code-sleuth/rotate-aws-secrets](https://github.com/code-sleuth/rotate-aws-secrets) - cli for securely rotating AWS secrets and access keys. (2 months ago)
 - [code-sleuth/ike-scripts](https://github.com/code-sleuth/ike-scripts) -  (2 months ago)
@@ -20,15 +20,15 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [meshery/meshery](https://github.com/meshery/meshery) ([v0.8.6](https://github.com/meshery/meshery/releases/tag/v0.8.6), today) - Meshery, the cloud native manager
+- [meshery/meshery](https://github.com/meshery/meshery) ([v0.8.6](https://github.com/meshery/meshery/releases/tag/v0.8.6), 1 day ago) - Meshery, the cloud native manager
 - [meshery/meshery-linkerd](https://github.com/meshery/meshery-linkerd) ([v0.8.0](https://github.com/meshery/meshery-linkerd/releases/tag/v0.8.0), 2 weeks ago) - Meshery adapter for Linkerd
 
 #### 🔨 My recent Pull Requests
 
 - [chore: document common build errors &amp; example program](https://github.com/csklub/SG-operating-systems/pull/2) on [csklub/SG-operating-systems](https://github.com/csklub/SG-operating-systems) (1 month ago)
 - [docs: setup guide](https://github.com/csklub/SG-operating-systems/pull/1) on [csklub/SG-operating-systems](https://github.com/csklub/SG-operating-systems) (1 month ago)
-- [feat: comply with risc-v specification on boot](https://github.com/code-sleuth/xv6-labs-2020/pull/2) on [code-sleuth/xv6-labs-2020](https://github.com/code-sleuth/xv6-labs-2020) (1 month ago)
-- [chore: add pr and issue templates](https://github.com/code-sleuth/xv6-labs-2020/pull/1) on [code-sleuth/xv6-labs-2020](https://github.com/code-sleuth/xv6-labs-2020) (1 month ago)
+- [feat: comply with risc-v specification on boot](https://github.com/code-sleuth/xv6-labs-2020/pull/2) on [code-sleuth/xv6-labs-2020](https://github.com/code-sleuth/xv6-labs-2020) (2 months ago)
+- [chore: add pr and issue templates](https://github.com/code-sleuth/xv6-labs-2020/pull/1) on [code-sleuth/xv6-labs-2020](https://github.com/code-sleuth/xv6-labs-2020) (2 months ago)
 - [feat: switch email client and use secrecy wrapper types for secret management](https://github.com/code-sleuth/outh/pull/22) on [code-sleuth/outh](https://github.com/code-sleuth/outh) (3 months ago)
 
 #### 🌱📖 I’m currently learning
@@ -46,7 +46,7 @@
 
 - [brndnmtthws/idiomatic-rust-book](https://github.com/brndnmtthws/idiomatic-rust-book) - Source code for Idiomatic Rust: Code like a Rustacean (1 week ago)
 - [negrel/secrecy](https://github.com/negrel/secrecy) - 🤫 A simple secret-keeping library for Go. (2 weeks ago)
-- [kube-rs/kube](https://github.com/kube-rs/kube) - Rust Kubernetes client and controller runtime (2 weeks ago)
+- [kube-rs/kube](https://github.com/kube-rs/kube) - Rust Kubernetes client and controller runtime (3 weeks ago)
 - [not-an-aardvark/lucky-commit](https://github.com/not-an-aardvark/lucky-commit) - Customize your git commit hashes! (1 month ago)
 - [pepperoni21/ollama-rs](https://github.com/pepperoni21/ollama-rs) - A simple and easy-to-use library for interacting with the Ollama API. (2 months ago)
 - [meshery/meshery](https://github.com/meshery/meshery) - Meshery, the cloud native manager (2 months ago)
