@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [meshery/meshery](https://github.com/meshery/meshery) ([v0.8.8](https://github.com/meshery/meshery/releases/tag/v0.8.8), today) - Meshery, the cloud native manager
+- [meshery/meshery](https://github.com/meshery/meshery) ([v0.8.7](https://github.com/meshery/meshery/releases/tag/v0.8.7), today) - Meshery, the cloud native manager
 - [meshery/meshery-linkerd](https://github.com/meshery/meshery-linkerd) ([v0.8.0](https://github.com/meshery/meshery-linkerd/releases/tag/v0.8.0), 2 weeks ago) - Meshery adapter for Linkerd
 
 #### 🔨 My recent Pull Requests
@@ -44,6 +44,7 @@
 
 #### ⭐ Recent Stars
 
+- [release-plz/action](https://github.com/release-plz/action) - GitHub action for https://github.com/MarcoIeni/release-plz (today)
 - [brndnmtthws/idiomatic-rust-book](https://github.com/brndnmtthws/idiomatic-rust-book) - Source code for Idiomatic Rust: Code like a Rustacean (1 week ago)
 - [negrel/secrecy](https://github.com/negrel/secrecy) - 🤫 A simple secret-keeping library for Go. (2 weeks ago)
 - [kube-rs/kube](https://github.com/kube-rs/kube) - Rust Kubernetes client and controller runtime (3 weeks ago)
@@ -53,7 +54,6 @@
 - [lichess-org/fishnet](https://github.com/lichess-org/fishnet) - Distributed Stockfish analysis for lichess.org (2 months ago)
 - [google/go-attestation](https://github.com/google/go-attestation) -  (3 months ago)
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books (3 months ago)
-- [langyo/0721](https://github.com/langyo/0721) - The engine of image hosting written in Rust. (4 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
