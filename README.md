@@ -4,19 +4,19 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [code-sleuth/scrutiny](https://github.com/code-sleuth/scrutiny) -  (today)
 - [csklub/SG-operating-systems](https://github.com/csklub/SG-operating-systems) - The operating systems study group playing ground. (1 month ago)
 - [code-sleuth/xv6-labs-2020](https://github.com/code-sleuth/xv6-labs-2020) - xv6 for RISC-V  (2 months ago)
 - [code-sleuth/outh](https://github.com/code-sleuth/outh) - Auth service (2 months ago)
-- [code-sleuth/rotate-aws-secrets](https://github.com/code-sleuth/rotate-aws-secrets) - cli for securely rotating AWS secrets and access keys. (2 months ago)
 - [code-sleuth/ike-scripts](https://github.com/code-sleuth/ike-scripts) -  (2 months ago)
 
 #### 🌱 My latest projects
 
+- [code-sleuth/scrutiny](https://github.com/code-sleuth/scrutiny) - 
 - [code-sleuth/xv6-labs-2020](https://github.com/code-sleuth/xv6-labs-2020) - xv6 for RISC-V 
 - [code-sleuth/rotate-aws-secrets](https://github.com/code-sleuth/rotate-aws-secrets) - cli for securely rotating AWS secrets and access keys.
 - [code-sleuth/ike-scripts](https://github.com/code-sleuth/ike-scripts) - 
 - [code-sleuth/test-helpers](https://github.com/code-sleuth/test-helpers) - macro api test helper for outh integration tests
-- [code-sleuth/outh](https://github.com/code-sleuth/outh) - Auth service
 
 #### 🔭 Latest releases I've contributed to
 
