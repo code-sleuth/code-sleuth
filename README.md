@@ -20,16 +20,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [meshery/meshery](https://github.com/meshery/meshery) ([v0.8.8](https://github.com/meshery/meshery/releases/tag/v0.8.8), today) - Meshery, the cloud native manager
+- [meshery/meshery](https://github.com/meshery/meshery) ([v0.8.8](https://github.com/meshery/meshery/releases/tag/v0.8.8), 1 day ago) - Meshery, the cloud native manager
 - [meshery/meshery-linkerd](https://github.com/meshery/meshery-linkerd) ([v0.8.0](https://github.com/meshery/meshery-linkerd/releases/tag/v0.8.0), 2 weeks ago) - Meshery adapter for Linkerd
 
 #### 🔨 My recent Pull Requests
 
-- [chore: publish binary to github release from release-plz workflow](https://github.com/release-plz/release-plz/pull/1968) on [release-plz/release-plz](https://github.com/release-plz/release-plz) (1 day ago)
-- [chore: document common build errors &amp; example program](https://github.com/csklub/SG-operating-systems/pull/2) on [csklub/SG-operating-systems](https://github.com/csklub/SG-operating-systems) (1 month ago)
-- [docs: setup guide](https://github.com/csklub/SG-operating-systems/pull/1) on [csklub/SG-operating-systems](https://github.com/csklub/SG-operating-systems) (1 month ago)
-- [feat: comply with risc-v specification on boot](https://github.com/code-sleuth/xv6-labs-2020/pull/2) on [code-sleuth/xv6-labs-2020](https://github.com/code-sleuth/xv6-labs-2020) (2 months ago)
-- [chore: add pr and issue templates](https://github.com/code-sleuth/xv6-labs-2020/pull/1) on [code-sleuth/xv6-labs-2020](https://github.com/code-sleuth/xv6-labs-2020) (2 months ago)
+- [chore: release v0.1.2](https://github.com/code-sleuth/scrutiny/pull/4) on [code-sleuth/scrutiny](https://github.com/code-sleuth/scrutiny) (today)
+- [chore: upload assets](https://github.com/code-sleuth/scrutiny/pull/3) on [code-sleuth/scrutiny](https://github.com/code-sleuth/scrutiny) (today)
+- [chore: release v0.1.1](https://github.com/code-sleuth/scrutiny/pull/2) on [code-sleuth/scrutiny](https://github.com/code-sleuth/scrutiny) (1 day ago)
+- [chore: release v0.1.0](https://github.com/code-sleuth/scrutiny/pull/1) on [code-sleuth/scrutiny](https://github.com/code-sleuth/scrutiny) (1 day ago)
+- [chore: publish binary to github release from release-plz workflow](https://github.com/release-plz/release-plz/pull/1968) on [release-plz/release-plz](https://github.com/release-plz/release-plz) (2 days ago)
 
 #### 🌱📖 I’m currently learning
 - [LFS](https://www.linuxfromscratch.org/lfs/)
@@ -44,10 +44,10 @@
 
 #### ⭐ Recent Stars
 
-- [release-plz/release-plz](https://github.com/release-plz/release-plz) - Publish Rust crates from CI with a Release PR. (1 day ago)
-- [release-plz/action](https://github.com/release-plz/action) - GitHub action for https://github.com/MarcoIeni/release-plz (1 day ago)
+- [release-plz/release-plz](https://github.com/release-plz/release-plz) - Publish Rust crates from CI with a Release PR. (2 days ago)
+- [release-plz/action](https://github.com/release-plz/action) - GitHub action for https://github.com/MarcoIeni/release-plz (2 days ago)
 - [brndnmtthws/idiomatic-rust-book](https://github.com/brndnmtthws/idiomatic-rust-book) - Source code for Idiomatic Rust: Code like a Rustacean (1 week ago)
-- [negrel/secrecy](https://github.com/negrel/secrecy) - 🤫 A simple secret-keeping library for Go. (2 weeks ago)
+- [negrel/secrecy](https://github.com/negrel/secrecy) - 🤫 A simple secret-keeping library for Go. (3 weeks ago)
 - [kube-rs/kube](https://github.com/kube-rs/kube) - Rust Kubernetes client and controller runtime (3 weeks ago)
 - [not-an-aardvark/lucky-commit](https://github.com/not-an-aardvark/lucky-commit) - Customize your git commit hashes! (1 month ago)
 - [pepperoni21/ollama-rs](https://github.com/pepperoni21/ollama-rs) - A simple and easy-to-use library for interacting with the Ollama API. (2 months ago)
