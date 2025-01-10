@@ -20,16 +20,17 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [code-sleuth/scrutiny](https://github.com/code-sleuth/scrutiny) ([v0.1.7](https://github.com/code-sleuth/scrutiny/releases/tag/v0.1.7), today) - 
 - [meshery/meshery](https://github.com/meshery/meshery) ([v0.8.8](https://github.com/meshery/meshery/releases/tag/v0.8.8), 1 day ago) - Meshery, the cloud native manager
 - [meshery/meshery-linkerd](https://github.com/meshery/meshery-linkerd) ([v0.8.0](https://github.com/meshery/meshery-linkerd/releases/tag/v0.8.0), 2 weeks ago) - Meshery adapter for Linkerd
 
 #### 🔨 My recent Pull Requests
 
+- [chore: release v0.1.7](https://github.com/code-sleuth/scrutiny/pull/13) on [code-sleuth/scrutiny](https://github.com/code-sleuth/scrutiny) (today)
+- [chore: release v0.1.6](https://github.com/code-sleuth/scrutiny/pull/12) on [code-sleuth/scrutiny](https://github.com/code-sleuth/scrutiny) (today)
 - [chore: release v0.1.5](https://github.com/code-sleuth/scrutiny/pull/11) on [code-sleuth/scrutiny](https://github.com/code-sleuth/scrutiny) (today)
 - [chore: release v0.1.5](https://github.com/code-sleuth/scrutiny/pull/10) on [code-sleuth/scrutiny](https://github.com/code-sleuth/scrutiny) (today)
 - [chore: release v0.1.4](https://github.com/code-sleuth/scrutiny/pull/9) on [code-sleuth/scrutiny](https://github.com/code-sleuth/scrutiny) (today)
-- [chore: release v0.1.4](https://github.com/code-sleuth/scrutiny/pull/8) on [code-sleuth/scrutiny](https://github.com/code-sleuth/scrutiny) (today)
-- [chore: release v0.1.3](https://github.com/code-sleuth/scrutiny/pull/7) on [code-sleuth/scrutiny](https://github.com/code-sleuth/scrutiny) (today)
 
 #### 🌱📖 I’m currently learning
 - [LFS](https://www.linuxfromscratch.org/lfs/)
