@@ -25,11 +25,11 @@
 
 #### 🔨 My recent Pull Requests
 
-- [chore: release v0.1.2](https://github.com/code-sleuth/scrutiny/pull/4) on [code-sleuth/scrutiny](https://github.com/code-sleuth/scrutiny) (today)
-- [chore: upload assets](https://github.com/code-sleuth/scrutiny/pull/3) on [code-sleuth/scrutiny](https://github.com/code-sleuth/scrutiny) (today)
-- [chore: release v0.1.1](https://github.com/code-sleuth/scrutiny/pull/2) on [code-sleuth/scrutiny](https://github.com/code-sleuth/scrutiny) (1 day ago)
-- [chore: release v0.1.0](https://github.com/code-sleuth/scrutiny/pull/1) on [code-sleuth/scrutiny](https://github.com/code-sleuth/scrutiny) (1 day ago)
-- [chore: publish binary to github release from release-plz workflow](https://github.com/release-plz/release-plz/pull/1968) on [release-plz/release-plz](https://github.com/release-plz/release-plz) (2 days ago)
+- [chore: release v0.1.5](https://github.com/code-sleuth/scrutiny/pull/11) on [code-sleuth/scrutiny](https://github.com/code-sleuth/scrutiny) (today)
+- [chore: release v0.1.5](https://github.com/code-sleuth/scrutiny/pull/10) on [code-sleuth/scrutiny](https://github.com/code-sleuth/scrutiny) (today)
+- [chore: release v0.1.4](https://github.com/code-sleuth/scrutiny/pull/9) on [code-sleuth/scrutiny](https://github.com/code-sleuth/scrutiny) (today)
+- [chore: release v0.1.4](https://github.com/code-sleuth/scrutiny/pull/8) on [code-sleuth/scrutiny](https://github.com/code-sleuth/scrutiny) (today)
+- [chore: release v0.1.3](https://github.com/code-sleuth/scrutiny/pull/7) on [code-sleuth/scrutiny](https://github.com/code-sleuth/scrutiny) (today)
 
 #### 🌱📖 I’m currently learning
 - [LFS](https://www.linuxfromscratch.org/lfs/)
