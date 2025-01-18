@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [meshery/meshery](https://github.com/meshery/meshery) ([v0.8.16](https://github.com/meshery/meshery/releases/tag/v0.8.16), today) - Meshery, the cloud native manager
+- [meshery/meshery](https://github.com/meshery/meshery) ([v0.8.16](https://github.com/meshery/meshery/releases/tag/v0.8.16), 1 day ago) - Meshery, the cloud native manager
 - [code-sleuth/scrutiny](https://github.com/code-sleuth/scrutiny) ([v0.1.8](https://github.com/code-sleuth/scrutiny/releases/tag/v0.1.8), 1 week ago) - 
 - [meshery/meshery-linkerd](https://github.com/meshery/meshery-linkerd) ([v0.8.0](https://github.com/meshery/meshery-linkerd/releases/tag/v0.8.0), 3 weeks ago) - Meshery adapter for Linkerd
 
@@ -53,7 +53,7 @@
 - [not-an-aardvark/lucky-commit](https://github.com/not-an-aardvark/lucky-commit) - Customize your git commit hashes! (2 months ago)
 - [pepperoni21/ollama-rs](https://github.com/pepperoni21/ollama-rs) - A simple and easy-to-use library for interacting with the Ollama API. (2 months ago)
 - [meshery/meshery](https://github.com/meshery/meshery) - Meshery, the cloud native manager (2 months ago)
-- [lichess-org/fishnet](https://github.com/lichess-org/fishnet) - Distributed Stockfish analysis for lichess.org (2 months ago)
+- [lichess-org/fishnet](https://github.com/lichess-org/fishnet) - Distributed Stockfish analysis for lichess.org (3 months ago)
 - [google/go-attestation](https://github.com/google/go-attestation) -  (3 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
