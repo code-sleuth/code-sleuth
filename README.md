@@ -45,6 +45,7 @@
 
 #### ⭐ Recent Stars
 
+- [kkos/oniguruma](https://github.com/kkos/oniguruma) - regular expression library (today)
 - [release-plz/release-plz](https://github.com/release-plz/release-plz) - Publish Rust crates from CI with a Release PR. (1 week ago)
 - [release-plz/action](https://github.com/release-plz/action) - GitHub action for https://github.com/MarcoIeni/release-plz (1 week ago)
 - [brndnmtthws/idiomatic-rust-book](https://github.com/brndnmtthws/idiomatic-rust-book) - Source code for Idiomatic Rust: Code like a Rustacean (3 weeks ago)
@@ -54,7 +55,6 @@
 - [pepperoni21/ollama-rs](https://github.com/pepperoni21/ollama-rs) - A simple and easy-to-use library for interacting with the Ollama API. (2 months ago)
 - [meshery/meshery](https://github.com/meshery/meshery) - Meshery, the cloud native manager (2 months ago)
 - [lichess-org/fishnet](https://github.com/lichess-org/fishnet) - Distributed Stockfish analysis for lichess.org (3 months ago)
-- [google/go-attestation](https://github.com/google/go-attestation) -  (3 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
