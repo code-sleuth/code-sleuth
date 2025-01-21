@@ -20,9 +20,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [meshery/meshery](https://github.com/meshery/meshery) ([v0.8.18](https://github.com/meshery/meshery/releases/tag/v0.8.18), 2 days ago) - Meshery, the cloud native manager
+- [meshery/meshery](https://github.com/meshery/meshery) ([v0.8.18](https://github.com/meshery/meshery/releases/tag/v0.8.18), 3 days ago) - Meshery, the cloud native manager
 - [code-sleuth/scrutiny](https://github.com/code-sleuth/scrutiny) ([v0.1.8](https://github.com/code-sleuth/scrutiny/releases/tag/v0.1.8), 1 week ago) - 
-- [meshery/meshery-linkerd](https://github.com/meshery/meshery-linkerd) ([v0.8.0](https://github.com/meshery/meshery-linkerd/releases/tag/v0.8.0), 3 weeks ago) - Meshery adapter for Linkerd
+- [meshery/meshery-linkerd](https://github.com/meshery/meshery-linkerd) ([v0.8.0](https://github.com/meshery/meshery-linkerd/releases/tag/v0.8.0), 4 weeks ago) - Meshery adapter for Linkerd
 
 #### 🔨 My recent Pull Requests
 
@@ -45,7 +45,7 @@
 
 #### ⭐ Recent Stars
 
-- [kkos/oniguruma](https://github.com/kkos/oniguruma) - regular expression library (today)
+- [kkos/oniguruma](https://github.com/kkos/oniguruma) - regular expression library (1 day ago)
 - [release-plz/release-plz](https://github.com/release-plz/release-plz) - Publish Rust crates from CI with a Release PR. (1 week ago)
 - [release-plz/action](https://github.com/release-plz/action) - GitHub action for https://github.com/MarcoIeni/release-plz (1 week ago)
 - [brndnmtthws/idiomatic-rust-book](https://github.com/brndnmtthws/idiomatic-rust-book) - Source code for Idiomatic Rust: Code like a Rustacean (3 weeks ago)
