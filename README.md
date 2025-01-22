@@ -4,7 +4,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [code-sleuth/min-os](https://github.com/code-sleuth/min-os) - small linux distro (today)
+- [code-sleuth/min-os](https://github.com/code-sleuth/min-os) - small linux distro (1 day ago)
 - [code-sleuth/scrutiny](https://github.com/code-sleuth/scrutiny) -  (1 week ago)
 - [csklub/SG-operating-systems](https://github.com/csklub/SG-operating-systems) - The operating systems study group playing ground. (2 months ago)
 - [code-sleuth/xv6-labs-2020](https://github.com/code-sleuth/xv6-labs-2020) - xv6 for RISC-V  (2 months ago)
@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [meshery/meshery](https://github.com/meshery/meshery) ([v0.8.19](https://github.com/meshery/meshery/releases/tag/v0.8.19), today) - Meshery, the cloud native manager
+- [meshery/meshery](https://github.com/meshery/meshery) ([v0.8.19](https://github.com/meshery/meshery/releases/tag/v0.8.19), 1 day ago) - Meshery, the cloud native manager
 - [code-sleuth/scrutiny](https://github.com/code-sleuth/scrutiny) ([v0.1.8](https://github.com/code-sleuth/scrutiny/releases/tag/v0.1.8), 1 week ago) - 
 - [meshery/meshery-linkerd](https://github.com/meshery/meshery-linkerd) ([v0.8.0](https://github.com/meshery/meshery-linkerd/releases/tag/v0.8.0), 4 weeks ago) - Meshery adapter for Linkerd
 
@@ -45,15 +45,15 @@
 
 #### ⭐ Recent Stars
 
-- [kkos/oniguruma](https://github.com/kkos/oniguruma) - regular expression library (1 day ago)
-- [release-plz/release-plz](https://github.com/release-plz/release-plz) - Publish Rust crates from CI with a Release PR. (1 week ago)
-- [release-plz/action](https://github.com/release-plz/action) - GitHub action for https://github.com/MarcoIeni/release-plz (1 week ago)
+- [kkos/oniguruma](https://github.com/kkos/oniguruma) - regular expression library (2 days ago)
+- [release-plz/release-plz](https://github.com/release-plz/release-plz) - Publish Rust crates from CI with a Release PR. (2 weeks ago)
+- [release-plz/action](https://github.com/release-plz/action) - GitHub action for https://github.com/MarcoIeni/release-plz (2 weeks ago)
 - [brndnmtthws/idiomatic-rust-book](https://github.com/brndnmtthws/idiomatic-rust-book) - Source code for Idiomatic Rust: Code like a Rustacean (3 weeks ago)
 - [negrel/secrecy](https://github.com/negrel/secrecy) - 🤫 A simple secret-keeping library for Go. (1 month ago)
 - [kube-rs/kube](https://github.com/kube-rs/kube) - Rust Kubernetes client and controller runtime (1 month ago)
 - [not-an-aardvark/lucky-commit](https://github.com/not-an-aardvark/lucky-commit) - Customize your git commit hashes! (2 months ago)
-- [pepperoni21/ollama-rs](https://github.com/pepperoni21/ollama-rs) - A simple and easy-to-use library for interacting with the Ollama API. (2 months ago)
-- [meshery/meshery](https://github.com/meshery/meshery) - Meshery, the cloud native manager (2 months ago)
+- [pepperoni21/ollama-rs](https://github.com/pepperoni21/ollama-rs) - A simple and easy-to-use library for interacting with the Ollama API. (3 months ago)
+- [meshery/meshery](https://github.com/meshery/meshery) - Meshery, the cloud native manager (3 months ago)
 - [lichess-org/fishnet](https://github.com/lichess-org/fishnet) - Distributed Stockfish analysis for lichess.org (3 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
