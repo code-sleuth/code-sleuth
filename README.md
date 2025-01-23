@@ -45,6 +45,7 @@
 
 #### ⭐ Recent Stars
 
+- [oapi-codegen/oapi-codegen](https://github.com/oapi-codegen/oapi-codegen) - Generate Go client and server boilerplate from OpenAPI 3 specifications (today)
 - [kkos/oniguruma](https://github.com/kkos/oniguruma) - regular expression library (3 days ago)
 - [release-plz/release-plz](https://github.com/release-plz/release-plz) - Publish Rust crates from CI with a Release PR. (2 weeks ago)
 - [release-plz/action](https://github.com/release-plz/action) - GitHub action for https://github.com/MarcoIeni/release-plz (2 weeks ago)
@@ -54,7 +55,6 @@
 - [not-an-aardvark/lucky-commit](https://github.com/not-an-aardvark/lucky-commit) - Customize your git commit hashes! (2 months ago)
 - [pepperoni21/ollama-rs](https://github.com/pepperoni21/ollama-rs) - A simple and easy-to-use library for interacting with the Ollama API. (3 months ago)
 - [meshery/meshery](https://github.com/meshery/meshery) - Meshery, the cloud native manager (3 months ago)
-- [lichess-org/fishnet](https://github.com/lichess-org/fishnet) - Distributed Stockfish analysis for lichess.org (3 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
