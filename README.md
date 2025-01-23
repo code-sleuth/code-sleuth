@@ -4,7 +4,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [code-sleuth/min-os](https://github.com/code-sleuth/min-os) - small linux distro (1 day ago)
+- [code-sleuth/min-os](https://github.com/code-sleuth/min-os) - small linux distro (2 days ago)
 - [code-sleuth/scrutiny](https://github.com/code-sleuth/scrutiny) -  (1 week ago)
 - [csklub/SG-operating-systems](https://github.com/csklub/SG-operating-systems) - The operating systems study group playing ground. (2 months ago)
 - [code-sleuth/xv6-labs-2020](https://github.com/code-sleuth/xv6-labs-2020) - xv6 for RISC-V  (2 months ago)
@@ -20,9 +20,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [meshery/meshery](https://github.com/meshery/meshery) ([v0.8.20](https://github.com/meshery/meshery/releases/tag/v0.8.20), today) - Meshery, the cloud native manager
+- [meshery/meshery](https://github.com/meshery/meshery) ([v0.8.20](https://github.com/meshery/meshery/releases/tag/v0.8.20), 1 day ago) - Meshery, the cloud native manager
 - [code-sleuth/scrutiny](https://github.com/code-sleuth/scrutiny) ([v0.1.8](https://github.com/code-sleuth/scrutiny/releases/tag/v0.1.8), 1 week ago) - 
-- [meshery/meshery-linkerd](https://github.com/meshery/meshery-linkerd) ([v0.8.0](https://github.com/meshery/meshery-linkerd/releases/tag/v0.8.0), 4 weeks ago) - Meshery adapter for Linkerd
+- [meshery/meshery-linkerd](https://github.com/meshery/meshery-linkerd) ([v0.8.0](https://github.com/meshery/meshery-linkerd/releases/tag/v0.8.0), 1 month ago) - Meshery adapter for Linkerd
 
 #### 🔨 My recent Pull Requests
 
@@ -45,7 +45,7 @@
 
 #### ⭐ Recent Stars
 
-- [kkos/oniguruma](https://github.com/kkos/oniguruma) - regular expression library (2 days ago)
+- [kkos/oniguruma](https://github.com/kkos/oniguruma) - regular expression library (3 days ago)
 - [release-plz/release-plz](https://github.com/release-plz/release-plz) - Publish Rust crates from CI with a Release PR. (2 weeks ago)
 - [release-plz/action](https://github.com/release-plz/action) - GitHub action for https://github.com/MarcoIeni/release-plz (2 weeks ago)
 - [brndnmtthws/idiomatic-rust-book](https://github.com/brndnmtthws/idiomatic-rust-book) - Source code for Idiomatic Rust: Code like a Rustacean (3 weeks ago)
