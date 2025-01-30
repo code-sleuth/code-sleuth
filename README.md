@@ -45,6 +45,7 @@
 
 #### ⭐ Recent Stars
 
+- [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.  (today)
 - [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy (3 days ago)
 - [oapi-codegen/oapi-codegen](https://github.com/oapi-codegen/oapi-codegen) - Generate Go client and server boilerplate from OpenAPI 3 specifications (1 week ago)
 - [kkos/oniguruma](https://github.com/kkos/oniguruma) - regular expression library (1 week ago)
@@ -54,7 +55,6 @@
 - [negrel/secrecy](https://github.com/negrel/secrecy) - 🤫 A simple secret-keeping library for Go. (1 month ago)
 - [kube-rs/kube](https://github.com/kube-rs/kube) - Rust Kubernetes client and controller runtime (1 month ago)
 - [not-an-aardvark/lucky-commit](https://github.com/not-an-aardvark/lucky-commit) - Customize your git commit hashes! (2 months ago)
-- [pepperoni21/ollama-rs](https://github.com/pepperoni21/ollama-rs) - A simple and easy-to-use library for interacting with the Ollama API. (3 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
