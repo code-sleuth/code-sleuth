@@ -5,9 +5,9 @@
 #### 👷 Check out what I'm currently working on
 
 - [code-sleuth/min-os](https://github.com/code-sleuth/min-os) - small linux distro (2 weeks ago)
-- [code-sleuth/scrutiny](https://github.com/code-sleuth/scrutiny) -  (3 weeks ago)
+- [code-sleuth/scrutiny](https://github.com/code-sleuth/scrutiny) -  (4 weeks ago)
 - [csklub/SG-operating-systems](https://github.com/csklub/SG-operating-systems) - The operating systems study group playing ground. (2 months ago)
-- [code-sleuth/xv6-labs-2020](https://github.com/code-sleuth/xv6-labs-2020) - xv6 for RISC-V  (2 months ago)
+- [code-sleuth/xv6-labs-2020](https://github.com/code-sleuth/xv6-labs-2020) - xv6 for RISC-V  (3 months ago)
 - [code-sleuth/outh](https://github.com/code-sleuth/outh) - Auth service (3 months ago)
 
 #### 🌱 My latest projects
@@ -20,17 +20,17 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [meshery/meshery-linkerd](https://github.com/meshery/meshery-linkerd) ([v0.8.2](https://github.com/meshery/meshery-linkerd/releases/tag/v0.8.2), today) - Meshery adapter for Linkerd
-- [meshery/meshery](https://github.com/meshery/meshery) ([v0.8.26](https://github.com/meshery/meshery/releases/tag/v0.8.26), 3 days ago) - Meshery, the cloud native manager
-- [code-sleuth/scrutiny](https://github.com/code-sleuth/scrutiny) ([v0.1.8](https://github.com/code-sleuth/scrutiny/releases/tag/v0.1.8), 3 weeks ago) - 
+- [meshery/meshery-linkerd](https://github.com/meshery/meshery-linkerd) ([v0.8.2](https://github.com/meshery/meshery-linkerd/releases/tag/v0.8.2), 1 day ago) - Meshery adapter for Linkerd
+- [meshery/meshery](https://github.com/meshery/meshery) ([v0.8.26](https://github.com/meshery/meshery/releases/tag/v0.8.26), 4 days ago) - Meshery, the cloud native manager
+- [code-sleuth/scrutiny](https://github.com/code-sleuth/scrutiny) ([v0.1.8](https://github.com/code-sleuth/scrutiny/releases/tag/v0.1.8), 4 weeks ago) - 
 
 #### 🔨 My recent Pull Requests
 
-- [chore: release v0.1.8](https://github.com/code-sleuth/scrutiny/pull/14) on [code-sleuth/scrutiny](https://github.com/code-sleuth/scrutiny) (3 weeks ago)
-- [chore: release v0.1.7](https://github.com/code-sleuth/scrutiny/pull/13) on [code-sleuth/scrutiny](https://github.com/code-sleuth/scrutiny) (3 weeks ago)
-- [chore: release v0.1.6](https://github.com/code-sleuth/scrutiny/pull/12) on [code-sleuth/scrutiny](https://github.com/code-sleuth/scrutiny) (3 weeks ago)
-- [chore: release v0.1.5](https://github.com/code-sleuth/scrutiny/pull/11) on [code-sleuth/scrutiny](https://github.com/code-sleuth/scrutiny) (3 weeks ago)
-- [chore: release v0.1.5](https://github.com/code-sleuth/scrutiny/pull/10) on [code-sleuth/scrutiny](https://github.com/code-sleuth/scrutiny) (3 weeks ago)
+- [chore: release v0.1.8](https://github.com/code-sleuth/scrutiny/pull/14) on [code-sleuth/scrutiny](https://github.com/code-sleuth/scrutiny) (4 weeks ago)
+- [chore: release v0.1.7](https://github.com/code-sleuth/scrutiny/pull/13) on [code-sleuth/scrutiny](https://github.com/code-sleuth/scrutiny) (4 weeks ago)
+- [chore: release v0.1.6](https://github.com/code-sleuth/scrutiny/pull/12) on [code-sleuth/scrutiny](https://github.com/code-sleuth/scrutiny) (4 weeks ago)
+- [chore: release v0.1.5](https://github.com/code-sleuth/scrutiny/pull/11) on [code-sleuth/scrutiny](https://github.com/code-sleuth/scrutiny) (4 weeks ago)
+- [chore: release v0.1.5](https://github.com/code-sleuth/scrutiny/pull/10) on [code-sleuth/scrutiny](https://github.com/code-sleuth/scrutiny) (4 weeks ago)
 
 #### 🌱📖 I’m currently learning
 - [LFS](https://www.linuxfromscratch.org/lfs/)
@@ -49,8 +49,8 @@
 - [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy (1 week ago)
 - [oapi-codegen/oapi-codegen](https://github.com/oapi-codegen/oapi-codegen) - Generate Go client and server boilerplate from OpenAPI 3 specifications (2 weeks ago)
 - [kkos/oniguruma](https://github.com/kkos/oniguruma) - regular expression library (2 weeks ago)
-- [release-plz/release-plz](https://github.com/release-plz/release-plz) - Publish Rust crates from CI with a Release PR. (4 weeks ago)
-- [release-plz/action](https://github.com/release-plz/action) - GitHub action for https://github.com/MarcoIeni/release-plz (4 weeks ago)
+- [release-plz/release-plz](https://github.com/release-plz/release-plz) - Publish Rust crates from CI with a Release PR. (1 month ago)
+- [release-plz/action](https://github.com/release-plz/action) - GitHub action for https://github.com/MarcoIeni/release-plz (1 month ago)
 - [brndnmtthws/idiomatic-rust-book](https://github.com/brndnmtthws/idiomatic-rust-book) - Source code for Idiomatic Rust: Code like a Rustacean (1 month ago)
 - [negrel/secrecy](https://github.com/negrel/secrecy) - 🤫 A simple secret-keeping library for Go. (1 month ago)
 - [kube-rs/kube](https://github.com/kube-rs/kube) - Rust Kubernetes client and controller runtime (1 month ago)
