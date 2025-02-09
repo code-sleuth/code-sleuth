@@ -5,7 +5,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [code-sleuth/min-os](https://github.com/code-sleuth/min-os) - small linux distro (2 weeks ago)
-- [code-sleuth/scrutiny](https://github.com/code-sleuth/scrutiny) -  (4 weeks ago)
+- [code-sleuth/scrutiny](https://github.com/code-sleuth/scrutiny) -  (1 month ago)
 - [csklub/SG-operating-systems](https://github.com/csklub/SG-operating-systems) - The operating systems study group playing ground. (2 months ago)
 - [code-sleuth/xv6-labs-2020](https://github.com/code-sleuth/xv6-labs-2020) - xv6 for RISC-V  (3 months ago)
 - [code-sleuth/outh](https://github.com/code-sleuth/outh) - Auth service (3 months ago)
@@ -20,17 +20,17 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [meshery/meshery](https://github.com/meshery/meshery) ([v0.8.27](https://github.com/meshery/meshery/releases/tag/v0.8.27), 1 day ago) - Meshery, the cloud native manager
-- [meshery/meshery-linkerd](https://github.com/meshery/meshery-linkerd) ([v0.8.2](https://github.com/meshery/meshery-linkerd/releases/tag/v0.8.2), 2 days ago) - Meshery adapter for Linkerd
-- [code-sleuth/scrutiny](https://github.com/code-sleuth/scrutiny) ([v0.1.8](https://github.com/code-sleuth/scrutiny/releases/tag/v0.1.8), 4 weeks ago) - 
+- [meshery/meshery](https://github.com/meshery/meshery) ([v0.8.27](https://github.com/meshery/meshery/releases/tag/v0.8.27), 2 days ago) - Meshery, the cloud native manager
+- [meshery/meshery-linkerd](https://github.com/meshery/meshery-linkerd) ([v0.8.2](https://github.com/meshery/meshery-linkerd/releases/tag/v0.8.2), 3 days ago) - Meshery adapter for Linkerd
+- [code-sleuth/scrutiny](https://github.com/code-sleuth/scrutiny) ([v0.1.8](https://github.com/code-sleuth/scrutiny/releases/tag/v0.1.8), 1 month ago) - 
 
 #### 🔨 My recent Pull Requests
 
-- [chore: release v0.1.8](https://github.com/code-sleuth/scrutiny/pull/14) on [code-sleuth/scrutiny](https://github.com/code-sleuth/scrutiny) (4 weeks ago)
-- [chore: release v0.1.7](https://github.com/code-sleuth/scrutiny/pull/13) on [code-sleuth/scrutiny](https://github.com/code-sleuth/scrutiny) (4 weeks ago)
-- [chore: release v0.1.6](https://github.com/code-sleuth/scrutiny/pull/12) on [code-sleuth/scrutiny](https://github.com/code-sleuth/scrutiny) (4 weeks ago)
-- [chore: release v0.1.5](https://github.com/code-sleuth/scrutiny/pull/11) on [code-sleuth/scrutiny](https://github.com/code-sleuth/scrutiny) (4 weeks ago)
-- [chore: release v0.1.5](https://github.com/code-sleuth/scrutiny/pull/10) on [code-sleuth/scrutiny](https://github.com/code-sleuth/scrutiny) (4 weeks ago)
+- [chore: release v0.1.8](https://github.com/code-sleuth/scrutiny/pull/14) on [code-sleuth/scrutiny](https://github.com/code-sleuth/scrutiny) (1 month ago)
+- [chore: release v0.1.7](https://github.com/code-sleuth/scrutiny/pull/13) on [code-sleuth/scrutiny](https://github.com/code-sleuth/scrutiny) (1 month ago)
+- [chore: release v0.1.6](https://github.com/code-sleuth/scrutiny/pull/12) on [code-sleuth/scrutiny](https://github.com/code-sleuth/scrutiny) (1 month ago)
+- [chore: release v0.1.5](https://github.com/code-sleuth/scrutiny/pull/11) on [code-sleuth/scrutiny](https://github.com/code-sleuth/scrutiny) (1 month ago)
+- [chore: release v0.1.5](https://github.com/code-sleuth/scrutiny/pull/10) on [code-sleuth/scrutiny](https://github.com/code-sleuth/scrutiny) (1 month ago)
 
 #### 🌱📖 I’m currently learning
 - [LFS](https://www.linuxfromscratch.org/lfs/)
