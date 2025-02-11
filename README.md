@@ -4,7 +4,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [code-sleuth/min-os](https://github.com/code-sleuth/min-os) - small linux distro (2 weeks ago)
+- [code-sleuth/min-os](https://github.com/code-sleuth/min-os) - small linux distro (3 weeks ago)
 - [code-sleuth/scrutiny](https://github.com/code-sleuth/scrutiny) -  (1 month ago)
 - [csklub/SG-operating-systems](https://github.com/csklub/SG-operating-systems) - The operating systems study group playing ground. (2 months ago)
 - [code-sleuth/xv6-labs-2020](https://github.com/code-sleuth/xv6-labs-2020) - xv6 for RISC-V  (3 months ago)
@@ -20,8 +20,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [meshery/meshery](https://github.com/meshery/meshery) ([v0.8.28](https://github.com/meshery/meshery/releases/tag/v0.8.28), today) - Meshery, the cloud native manager
-- [meshery/meshery-linkerd](https://github.com/meshery/meshery-linkerd) ([v0.8.2](https://github.com/meshery/meshery-linkerd/releases/tag/v0.8.2), 4 days ago) - Meshery adapter for Linkerd
+- [meshery/meshery](https://github.com/meshery/meshery) ([v0.8.28](https://github.com/meshery/meshery/releases/tag/v0.8.28), 1 day ago) - Meshery, the cloud native manager
+- [meshery/meshery-linkerd](https://github.com/meshery/meshery-linkerd) ([v0.8.2](https://github.com/meshery/meshery-linkerd/releases/tag/v0.8.2), 5 days ago) - Meshery adapter for Linkerd
 - [code-sleuth/scrutiny](https://github.com/code-sleuth/scrutiny) ([v0.1.8](https://github.com/code-sleuth/scrutiny/releases/tag/v0.1.8), 1 month ago) - 
 
 #### 🔨 My recent Pull Requests
