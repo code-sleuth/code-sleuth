@@ -61,11 +61,11 @@
 
 #### 👯 Check out some of my recent followers
 
-- [ipqwery](https://github.com/ipqwery)
 - [Anon23261](https://github.com/Anon23261)
 - [Gidraff](https://github.com/Gidraff)
 - [Ramyromel](https://github.com/Ramyromel)
 - [Kagendoooo](https://github.com/Kagendoooo)
+- [LucMuhizi](https://github.com/LucMuhizi)
 
 #### 💬 Feedback
 
