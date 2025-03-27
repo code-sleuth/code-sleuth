@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [meshery/meshery](https://github.com/meshery/meshery) ([v0.8.52](https://github.com/meshery/meshery/releases/tag/v0.8.52), 1 day ago) - Meshery, the cloud native manager
+- [meshery/meshery](https://github.com/meshery/meshery) ([v0.8.52](https://github.com/meshery/meshery/releases/tag/v0.8.52), 2 days ago) - Meshery, the cloud native manager
 - [meshery/meshery-linkerd](https://github.com/meshery/meshery-linkerd) ([v0.8.2](https://github.com/meshery/meshery-linkerd/releases/tag/v0.8.2), 1 month ago) - Meshery adapter for Linkerd
 - [code-sleuth/scrutiny](https://github.com/code-sleuth/scrutiny) ([v0.1.8](https://github.com/code-sleuth/scrutiny/releases/tag/v0.1.8), 2 months ago) - 
 
@@ -45,7 +45,7 @@
 
 #### ⭐ Recent Stars
 
-- [apple/cups](https://github.com/apple/cups) - Apple CUPS Sources (today)
+- [apple/cups](https://github.com/apple/cups) - Apple CUPS Sources (1 day ago)
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.  (1 month ago)
 - [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.  (1 month ago)
 - [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy (1 month ago)
