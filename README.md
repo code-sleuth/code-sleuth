@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [meshery/meshery](https://github.com/meshery/meshery) ([v0.8.54](https://github.com/meshery/meshery/releases/tag/v0.8.54), 4 days ago) - Meshery, the cloud native manager
+- [meshery/meshery](https://github.com/meshery/meshery) ([v0.8.54](https://github.com/meshery/meshery/releases/tag/v0.8.54), 5 days ago) - Meshery, the cloud native manager
 - [meshery-extensions/meshery-linkerd](https://github.com/meshery-extensions/meshery-linkerd) ([v0.8.2](https://github.com/meshery-extensions/meshery-linkerd/releases/tag/v0.8.2), 1 month ago) - Meshery adapter for Linkerd
 - [code-sleuth/scrutiny](https://github.com/code-sleuth/scrutiny) ([v0.1.8](https://github.com/code-sleuth/scrutiny/releases/tag/v0.1.8), 2 months ago) - 
 
@@ -45,7 +45,7 @@
 
 #### ⭐ Recent Stars
 
-- [paritytech/polkadot-sdk](https://github.com/paritytech/polkadot-sdk) - The Parity Polkadot Blockchain SDK (4 days ago)
+- [paritytech/polkadot-sdk](https://github.com/paritytech/polkadot-sdk) - The Parity Polkadot Blockchain SDK (5 days ago)
 - [apple/cups](https://github.com/apple/cups) - Apple CUPS Sources (1 week ago)
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.  (1 month ago)
 - [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.  (2 months ago)
