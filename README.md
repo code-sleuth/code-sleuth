@@ -8,7 +8,7 @@
 - [code-sleuth/scrutiny](https://github.com/code-sleuth/scrutiny) -  (3 months ago)
 - [csklub/SG-operating-systems](https://github.com/csklub/SG-operating-systems) - The operating systems study group playing ground. (5 months ago)
 - [code-sleuth/xv6-labs-2020](https://github.com/code-sleuth/xv6-labs-2020) - xv6 for RISC-V  (5 months ago)
-- [code-sleuth/outh](https://github.com/code-sleuth/outh) - Auth service (5 months ago)
+- [code-sleuth/outh](https://github.com/code-sleuth/outh) - Auth service (6 months ago)
 
 #### 🌱 My latest projects
 
@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [meshery/meshery](https://github.com/meshery/meshery) ([v0.8.65](https://github.com/meshery/meshery/releases/tag/v0.8.65), 1 day ago) - Meshery, the cloud native manager
+- [meshery/meshery](https://github.com/meshery/meshery) ([v0.8.65](https://github.com/meshery/meshery/releases/tag/v0.8.65), 2 days ago) - Meshery, the cloud native manager
 - [meshery-extensions/meshery-linkerd](https://github.com/meshery-extensions/meshery-linkerd) ([v0.8.2](https://github.com/meshery-extensions/meshery-linkerd/releases/tag/v0.8.2), 2 months ago) - Meshery adapter for Linkerd
 - [code-sleuth/scrutiny](https://github.com/code-sleuth/scrutiny) ([v0.1.8](https://github.com/code-sleuth/scrutiny/releases/tag/v0.1.8), 3 months ago) - 
 
@@ -54,7 +54,7 @@
 - [kkos/oniguruma](https://github.com/kkos/oniguruma) - regular expression library (3 months ago)
 - [release-plz/release-plz](https://github.com/release-plz/release-plz) - Publish Rust crates from CI with a Release PR. (3 months ago)
 - [release-plz/action](https://github.com/release-plz/action) - GitHub action for https://github.com/MarcoIeni/release-plz (3 months ago)
-- [brndnmtthws/idiomatic-rust-book](https://github.com/brndnmtthws/idiomatic-rust-book) - Source code for Idiomatic Rust: Code like a Rustacean (3 months ago)
+- [brndnmtthws/idiomatic-rust-book](https://github.com/brndnmtthws/idiomatic-rust-book) - Source code for Idiomatic Rust: Code like a Rustacean (4 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
