@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [meshery/meshery](https://github.com/meshery/meshery) ([v0.8.65](https://github.com/meshery/meshery/releases/tag/v0.8.65), 2 days ago) - Meshery, the cloud native manager
+- [meshery/meshery](https://github.com/meshery/meshery) ([v0.8.65](https://github.com/meshery/meshery/releases/tag/v0.8.65), 3 days ago) - Meshery, the cloud native manager
 - [code-sleuth/scrutiny](https://github.com/code-sleuth/scrutiny) ([v0.1.8](https://github.com/code-sleuth/scrutiny/releases/tag/v0.1.8), 3 months ago) - 
 
 #### 🔨 My recent Pull Requests
@@ -44,10 +44,10 @@
 
 #### ⭐ Recent Stars
 
-- [paritytech/polkadot-sdk](https://github.com/paritytech/polkadot-sdk) - The Parity Polkadot Blockchain SDK (4 weeks ago)
+- [paritytech/polkadot-sdk](https://github.com/paritytech/polkadot-sdk) - The Parity Polkadot Blockchain SDK (1 month ago)
 - [apple/cups](https://github.com/apple/cups) - Apple CUPS Sources (1 month ago)
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.  (2 months ago)
-- [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.  (2 months ago)
+- [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.  (3 months ago)
 - [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy (3 months ago)
 - [oapi-codegen/oapi-codegen](https://github.com/oapi-codegen/oapi-codegen) - Generate Go client and server boilerplate from OpenAPI 3 specifications (3 months ago)
 - [kkos/oniguruma](https://github.com/kkos/oniguruma) - regular expression library (3 months ago)
