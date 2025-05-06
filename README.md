@@ -44,6 +44,7 @@
 
 #### ⭐ Recent Stars
 
+- [rs/zerolog](https://github.com/rs/zerolog) - Zero Allocation JSON Logger (today)
 - [paritytech/polkadot-sdk](https://github.com/paritytech/polkadot-sdk) - The Parity Polkadot Blockchain SDK (1 month ago)
 - [apple/cups](https://github.com/apple/cups) - Apple CUPS Sources (1 month ago)
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.  (2 months ago)
@@ -53,7 +54,6 @@
 - [kkos/oniguruma](https://github.com/kkos/oniguruma) - regular expression library (3 months ago)
 - [release-plz/release-plz](https://github.com/release-plz/release-plz) - Publish Rust crates from CI with a Release PR. (3 months ago)
 - [release-plz/action](https://github.com/release-plz/action) - GitHub action for https://github.com/MarcoIeni/release-plz (3 months ago)
-- [brndnmtthws/idiomatic-rust-book](https://github.com/brndnmtthws/idiomatic-rust-book) - Source code for Idiomatic Rust: Code like a Rustacean (4 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
