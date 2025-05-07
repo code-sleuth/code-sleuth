@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [meshery/meshery](https://github.com/meshery/meshery) ([v0.8.72](https://github.com/meshery/meshery/releases/tag/v0.8.72), today) - Meshery, the cloud native manager
+- [meshery/meshery](https://github.com/meshery/meshery) ([v0.8.72](https://github.com/meshery/meshery/releases/tag/v0.8.72), 1 day ago) - Meshery, the cloud native manager
 - [code-sleuth/scrutiny](https://github.com/code-sleuth/scrutiny) ([v0.1.8](https://github.com/code-sleuth/scrutiny/releases/tag/v0.1.8), 3 months ago) - 
 
 #### 🔨 My recent Pull Requests
@@ -44,7 +44,7 @@
 
 #### ⭐ Recent Stars
 
-- [rs/zerolog](https://github.com/rs/zerolog) - Zero Allocation JSON Logger (today)
+- [rs/zerolog](https://github.com/rs/zerolog) - Zero Allocation JSON Logger (1 day ago)
 - [paritytech/polkadot-sdk](https://github.com/paritytech/polkadot-sdk) - The Parity Polkadot Blockchain SDK (1 month ago)
 - [apple/cups](https://github.com/apple/cups) - Apple CUPS Sources (1 month ago)
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.  (2 months ago)
