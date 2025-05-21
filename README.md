@@ -4,8 +4,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [code-sleuth/node-handshake](https://github.com/code-sleuth/node-handshake) -  (4 days ago)
-- [code-sleuth/min-os](https://github.com/code-sleuth/min-os) - small linux distro (3 months ago)
+- [code-sleuth/node-handshake](https://github.com/code-sleuth/node-handshake) -  (5 days ago)
+- [code-sleuth/min-os](https://github.com/code-sleuth/min-os) - small linux distro (4 months ago)
 - [code-sleuth/scrutiny](https://github.com/code-sleuth/scrutiny) -  (4 months ago)
 - [csklub/SG-operating-systems](https://github.com/csklub/SG-operating-systems) - The operating systems study group playing ground. (6 months ago)
 - [code-sleuth/xv6-labs-2020](https://github.com/code-sleuth/xv6-labs-2020) - xv6 for RISC-V  (6 months ago)
