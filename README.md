@@ -43,12 +43,12 @@
 
 #### ⭐ Recent Stars
 
-- [rs/zerolog](https://github.com/rs/zerolog) - Zero Allocation JSON Logger (2 weeks ago)
+- [rs/zerolog](https://github.com/rs/zerolog) - Zero Allocation JSON Logger (3 weeks ago)
 - [paritytech/polkadot-sdk](https://github.com/paritytech/polkadot-sdk) - The Parity Polkadot Blockchain SDK (1 month ago)
 - [apple/cups](https://github.com/apple/cups) - Apple CUPS Sources (2 months ago)
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.  (3 months ago)
 - [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.  (3 months ago)
-- [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy (3 months ago)
+- [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy (4 months ago)
 - [oapi-codegen/oapi-codegen](https://github.com/oapi-codegen/oapi-codegen) - Generate Go client and server boilerplate from OpenAPI 3 specifications (4 months ago)
 - [kkos/oniguruma](https://github.com/kkos/oniguruma) - regular expression library (4 months ago)
 - [release-plz/release-plz](https://github.com/release-plz/release-plz) - Publish Rust crates from CI with a Release PR. (4 months ago)
