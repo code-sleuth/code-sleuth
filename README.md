@@ -43,7 +43,7 @@
 
 #### ⭐ Recent Stars
 
-- [rs/zerolog](https://github.com/rs/zerolog) - Zero Allocation JSON Logger (4 weeks ago)
+- [rs/zerolog](https://github.com/rs/zerolog) - Zero Allocation JSON Logger (1 month ago)
 - [paritytech/polkadot-sdk](https://github.com/paritytech/polkadot-sdk) - The Parity Polkadot Blockchain SDK (2 months ago)
 - [apple/cups](https://github.com/apple/cups) - Apple CUPS Sources (2 months ago)
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.  (3 months ago)
