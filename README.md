@@ -8,7 +8,7 @@
 - [code-sleuth/min-os](https://github.com/code-sleuth/min-os) - small linux distro (4 months ago)
 - [code-sleuth/scrutiny](https://github.com/code-sleuth/scrutiny) -  (4 months ago)
 - [csklub/SG-operating-systems](https://github.com/csklub/SG-operating-systems) - The operating systems study group playing ground. (6 months ago)
-- [code-sleuth/xv6-labs-2020](https://github.com/code-sleuth/xv6-labs-2020) - xv6 for RISC-V  (6 months ago)
+- [code-sleuth/xv6-labs-2020](https://github.com/code-sleuth/xv6-labs-2020) - xv6 for RISC-V  (7 months ago)
 
 #### 🌱 My latest projects
 
@@ -51,8 +51,8 @@
 - [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy (4 months ago)
 - [oapi-codegen/oapi-codegen](https://github.com/oapi-codegen/oapi-codegen) - Generate Go client and server boilerplate from OpenAPI 3 specifications (4 months ago)
 - [kkos/oniguruma](https://github.com/kkos/oniguruma) - regular expression library (4 months ago)
-- [release-plz/release-plz](https://github.com/release-plz/release-plz) - Publish Rust crates from CI with a Release PR. (4 months ago)
-- [release-plz/action](https://github.com/release-plz/action) - GitHub action for https://github.com/MarcoIeni/release-plz (4 months ago)
+- [release-plz/release-plz](https://github.com/release-plz/release-plz) - Publish Rust crates from CI with a Release PR. (5 months ago)
+- [release-plz/action](https://github.com/release-plz/action) - GitHub action for https://github.com/MarcoIeni/release-plz (5 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
