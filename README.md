@@ -6,7 +6,7 @@
 
 - [code-sleuth/node-handshake](https://github.com/code-sleuth/node-handshake) -  (3 weeks ago)
 - [code-sleuth/min-os](https://github.com/code-sleuth/min-os) - small linux distro (4 months ago)
-- [code-sleuth/scrutiny](https://github.com/code-sleuth/scrutiny) -  (4 months ago)
+- [code-sleuth/scrutiny](https://github.com/code-sleuth/scrutiny) -  (5 months ago)
 - [csklub/SG-operating-systems](https://github.com/csklub/SG-operating-systems) - The operating systems study group playing ground. (6 months ago)
 - [code-sleuth/xv6-labs-2020](https://github.com/code-sleuth/xv6-labs-2020) - xv6 for RISC-V  (7 months ago)
 
@@ -20,15 +20,15 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [code-sleuth/scrutiny](https://github.com/code-sleuth/scrutiny) ([v0.1.8](https://github.com/code-sleuth/scrutiny/releases/tag/v0.1.8), 4 months ago) - 
+- [code-sleuth/scrutiny](https://github.com/code-sleuth/scrutiny) ([v0.1.8](https://github.com/code-sleuth/scrutiny/releases/tag/v0.1.8), 5 months ago) - 
 
 #### 🔨 My recent Pull Requests
 
-- [chore: release v0.1.8](https://github.com/code-sleuth/scrutiny/pull/14) on [code-sleuth/scrutiny](https://github.com/code-sleuth/scrutiny) (4 months ago)
-- [chore: release v0.1.7](https://github.com/code-sleuth/scrutiny/pull/13) on [code-sleuth/scrutiny](https://github.com/code-sleuth/scrutiny) (4 months ago)
-- [chore: release v0.1.6](https://github.com/code-sleuth/scrutiny/pull/12) on [code-sleuth/scrutiny](https://github.com/code-sleuth/scrutiny) (4 months ago)
-- [chore: release v0.1.5](https://github.com/code-sleuth/scrutiny/pull/11) on [code-sleuth/scrutiny](https://github.com/code-sleuth/scrutiny) (4 months ago)
-- [chore: release v0.1.5](https://github.com/code-sleuth/scrutiny/pull/10) on [code-sleuth/scrutiny](https://github.com/code-sleuth/scrutiny) (4 months ago)
+- [chore: release v0.1.8](https://github.com/code-sleuth/scrutiny/pull/14) on [code-sleuth/scrutiny](https://github.com/code-sleuth/scrutiny) (5 months ago)
+- [chore: release v0.1.7](https://github.com/code-sleuth/scrutiny/pull/13) on [code-sleuth/scrutiny](https://github.com/code-sleuth/scrutiny) (5 months ago)
+- [chore: release v0.1.6](https://github.com/code-sleuth/scrutiny/pull/12) on [code-sleuth/scrutiny](https://github.com/code-sleuth/scrutiny) (5 months ago)
+- [chore: release v0.1.5](https://github.com/code-sleuth/scrutiny/pull/11) on [code-sleuth/scrutiny](https://github.com/code-sleuth/scrutiny) (5 months ago)
+- [chore: release v0.1.5](https://github.com/code-sleuth/scrutiny/pull/10) on [code-sleuth/scrutiny](https://github.com/code-sleuth/scrutiny) (5 months ago)
 
 #### 🌱📖 I’m currently learning
 - [LFS](https://www.linuxfromscratch.org/lfs/)
