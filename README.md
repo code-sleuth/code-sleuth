@@ -6,7 +6,7 @@
 
 - [code-sleuth/node-handshake](https://github.com/code-sleuth/node-handshake) -  (1 month ago)
 - [code-sleuth/min-os](https://github.com/code-sleuth/min-os) - small linux distro (5 months ago)
-- [code-sleuth/scrutiny](https://github.com/code-sleuth/scrutiny) -  (5 months ago)
+- [code-sleuth/scrutiny](https://github.com/code-sleuth/scrutiny) -  (6 months ago)
 - [csklub/SG-operating-systems](https://github.com/csklub/SG-operating-systems) - The operating systems study group playing ground. (7 months ago)
 - [code-sleuth/xv6-labs-2020](https://github.com/code-sleuth/xv6-labs-2020) - xv6 for RISC-V  (8 months ago)
 
@@ -20,15 +20,15 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [code-sleuth/scrutiny](https://github.com/code-sleuth/scrutiny) ([v0.1.8](https://github.com/code-sleuth/scrutiny/releases/tag/v0.1.8), 5 months ago) - 
+- [code-sleuth/scrutiny](https://github.com/code-sleuth/scrutiny) ([v0.1.8](https://github.com/code-sleuth/scrutiny/releases/tag/v0.1.8), 6 months ago) - 
 
 #### 🔨 My recent Pull Requests
 
-- [chore: release v0.1.8](https://github.com/code-sleuth/scrutiny/pull/14) on [code-sleuth/scrutiny](https://github.com/code-sleuth/scrutiny) (5 months ago)
-- [chore: release v0.1.7](https://github.com/code-sleuth/scrutiny/pull/13) on [code-sleuth/scrutiny](https://github.com/code-sleuth/scrutiny) (5 months ago)
-- [chore: release v0.1.6](https://github.com/code-sleuth/scrutiny/pull/12) on [code-sleuth/scrutiny](https://github.com/code-sleuth/scrutiny) (5 months ago)
-- [chore: release v0.1.5](https://github.com/code-sleuth/scrutiny/pull/11) on [code-sleuth/scrutiny](https://github.com/code-sleuth/scrutiny) (5 months ago)
-- [chore: release v0.1.5](https://github.com/code-sleuth/scrutiny/pull/10) on [code-sleuth/scrutiny](https://github.com/code-sleuth/scrutiny) (5 months ago)
+- [chore: release v0.1.8](https://github.com/code-sleuth/scrutiny/pull/14) on [code-sleuth/scrutiny](https://github.com/code-sleuth/scrutiny) (6 months ago)
+- [chore: release v0.1.7](https://github.com/code-sleuth/scrutiny/pull/13) on [code-sleuth/scrutiny](https://github.com/code-sleuth/scrutiny) (6 months ago)
+- [chore: release v0.1.6](https://github.com/code-sleuth/scrutiny/pull/12) on [code-sleuth/scrutiny](https://github.com/code-sleuth/scrutiny) (6 months ago)
+- [chore: release v0.1.5](https://github.com/code-sleuth/scrutiny/pull/11) on [code-sleuth/scrutiny](https://github.com/code-sleuth/scrutiny) (6 months ago)
+- [chore: release v0.1.5](https://github.com/code-sleuth/scrutiny/pull/10) on [code-sleuth/scrutiny](https://github.com/code-sleuth/scrutiny) (6 months ago)
 
 #### 🌱📖 I’m currently learning
 - [LFS](https://www.linuxfromscratch.org/lfs/)
@@ -43,7 +43,7 @@
 
 #### ⭐ Recent Stars
 
-- [jackjackbits/bitchat](https://github.com/jackjackbits/bitchat) - bluetooth mesh chat, IRC vibes (today)
+- [jackjackbits/bitchat](https://github.com/jackjackbits/bitchat) - bluetooth mesh chat, IRC vibes (1 day ago)
 - [rs/zerolog](https://github.com/rs/zerolog) - Zero Allocation JSON Logger (2 months ago)
 - [paritytech/polkadot-sdk](https://github.com/paritytech/polkadot-sdk) - The Parity Polkadot Blockchain SDK (3 months ago)
 - [apple/cups](https://github.com/apple/cups) - Apple CUPS Sources (3 months ago)
