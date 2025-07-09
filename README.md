@@ -43,6 +43,7 @@
 
 #### ⭐ Recent Stars
 
+- [googleapis/google-cloud-rust](https://github.com/googleapis/google-cloud-rust) - Google Cloud Platform Rust Client Libraries (today)
 - [jackjackbits/bitchat](https://github.com/jackjackbits/bitchat) - bluetooth mesh chat, IRC vibes (1 day ago)
 - [rs/zerolog](https://github.com/rs/zerolog) - Zero Allocation JSON Logger (2 months ago)
 - [paritytech/polkadot-sdk](https://github.com/paritytech/polkadot-sdk) - The Parity Polkadot Blockchain SDK (3 months ago)
@@ -52,7 +53,6 @@
 - [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy (5 months ago)
 - [oapi-codegen/oapi-codegen](https://github.com/oapi-codegen/oapi-codegen) - Generate Go client and server boilerplate from OpenAPI 3 specifications (5 months ago)
 - [kkos/oniguruma](https://github.com/kkos/oniguruma) - regular expression library (5 months ago)
-- [release-plz/release-plz](https://github.com/release-plz/release-plz) - Publish Rust crates from CI with a Release PR. (6 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
