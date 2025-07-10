@@ -12,11 +12,11 @@
 
 #### 🌱 My latest projects
 
+- [code-sleuth/ike-go](https://github.com/code-sleuth/ike-go) - A production-ready Go cli for importing, transforming, and processing content from various sources (WordPress JSON API, GitHub repositories) into a structured document database with vector embeddings.
 - [code-sleuth/node-handshake](https://github.com/code-sleuth/node-handshake) - 
 - [code-sleuth/min-os](https://github.com/code-sleuth/min-os) - small linux distro
 - [code-sleuth/scrutiny](https://github.com/code-sleuth/scrutiny) - 
 - [code-sleuth/xv6-labs-2020](https://github.com/code-sleuth/xv6-labs-2020) - xv6 for RISC-V 
-- [code-sleuth/rotate-aws-secrets](https://github.com/code-sleuth/rotate-aws-secrets) - cli for securely rotating AWS secrets and access keys.
 
 #### 🔭 Latest releases I've contributed to
 
