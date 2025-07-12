@@ -4,7 +4,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [code-sleuth/ike-go](https://github.com/code-sleuth/ike-go) - A production-ready Go cli for importing, transforming, and processing content from various sources (WordPress JSON API, GitHub repositories) into a structured document database with vector embeddings. (1 day ago)
+- [code-sleuth/ike-go](https://github.com/code-sleuth/ike-go) - A production-ready Go cli for importing, transforming, and processing content from various sources (WordPress JSON API, GitHub repositories) into a structured document database with vector embeddings. (today)
 - [code-sleuth/node-handshake](https://github.com/code-sleuth/node-handshake) -  (1 month ago)
 - [code-sleuth/min-os](https://github.com/code-sleuth/min-os) - small linux distro (5 months ago)
 - [code-sleuth/scrutiny](https://github.com/code-sleuth/scrutiny) -  (6 months ago)
