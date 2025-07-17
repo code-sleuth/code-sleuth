@@ -4,7 +4,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [code-sleuth/ike-go](https://github.com/code-sleuth/ike-go) - A production-ready Go cli for importing, transforming, and processing content from various sources (WordPress JSON API, GitHub repositories) into a structured document database with vector embeddings. (3 days ago)
+- [code-sleuth/ike-go](https://github.com/code-sleuth/ike-go) - A production-ready Go cli for importing, transforming, and processing content from various sources (WordPress JSON API, GitHub repositories) into a structured document database with vector embeddings. (4 days ago)
 - [code-sleuth/node-handshake](https://github.com/code-sleuth/node-handshake) -  (2 months ago)
 - [code-sleuth/min-os](https://github.com/code-sleuth/min-os) - small linux distro (5 months ago)
 - [code-sleuth/scrutiny](https://github.com/code-sleuth/scrutiny) -  (6 months ago)
@@ -43,7 +43,7 @@
 
 #### ⭐ Recent Stars
 
-- [anders94/blockchain-demo](https://github.com/anders94/blockchain-demo) - A web-based demonstration of blockchain concepts. (today)
+- [anders94/blockchain-demo](https://github.com/anders94/blockchain-demo) - A web-based demonstration of blockchain concepts. (1 day ago)
 - [googleapis/google-cloud-rust](https://github.com/googleapis/google-cloud-rust) - Google Cloud Platform Rust Client Libraries (1 week ago)
 - [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) - bluetooth mesh chat, IRC vibes (1 week ago)
 - [rs/zerolog](https://github.com/rs/zerolog) - Zero Allocation JSON Logger (2 months ago)
