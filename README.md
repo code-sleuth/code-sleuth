@@ -4,9 +4,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [code-sleuth/ike-go](https://github.com/code-sleuth/ike-go) - A production-ready Go cli for importing, transforming, and processing content from various sources (WordPress JSON API, GitHub repositories) into a structured document database with vector embeddings. (6 days ago)
+- [code-sleuth/ike-go](https://github.com/code-sleuth/ike-go) - A production-ready Go cli for importing, transforming, and processing content from various sources (WordPress JSON API, GitHub repositories) into a structured document database with vector embeddings. (1 week ago)
 - [code-sleuth/node-handshake](https://github.com/code-sleuth/node-handshake) -  (2 months ago)
-- [code-sleuth/min-os](https://github.com/code-sleuth/min-os) - small linux distro (5 months ago)
+- [code-sleuth/min-os](https://github.com/code-sleuth/min-os) - small linux distro (6 months ago)
 - [code-sleuth/scrutiny](https://github.com/code-sleuth/scrutiny) -  (6 months ago)
 - [csklub/SG-operating-systems](https://github.com/csklub/SG-operating-systems) - The operating systems study group playing ground. (8 months ago)
 
@@ -43,8 +43,8 @@
 
 #### ⭐ Recent Stars
 
-- [baindlapranayraj/SolanaBlogs](https://github.com/baindlapranayraj/SolanaBlogs) - Some Solana Blogs I am writing, read if you are intrested (2 days ago)
-- [anders94/blockchain-demo](https://github.com/anders94/blockchain-demo) - A web-based demonstration of blockchain concepts. (3 days ago)
+- [baindlapranayraj/SolanaBlogs](https://github.com/baindlapranayraj/SolanaBlogs) - Some Solana Blogs I am writing, read if you are intrested (3 days ago)
+- [anders94/blockchain-demo](https://github.com/anders94/blockchain-demo) - A web-based demonstration of blockchain concepts. (4 days ago)
 - [googleapis/google-cloud-rust](https://github.com/googleapis/google-cloud-rust) - Google Cloud Platform Rust Client Libraries (1 week ago)
 - [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) - bluetooth mesh chat, IRC vibes (1 week ago)
 - [rs/zerolog](https://github.com/rs/zerolog) - Zero Allocation JSON Logger (2 months ago)
