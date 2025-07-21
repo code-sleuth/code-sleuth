@@ -43,8 +43,8 @@
 
 #### ⭐ Recent Stars
 
-- [baindlapranayraj/SolanaBlogs](https://github.com/baindlapranayraj/SolanaBlogs) - Some Solana Blogs I am writing, read if you are intrested (3 days ago)
-- [anders94/blockchain-demo](https://github.com/anders94/blockchain-demo) - A web-based demonstration of blockchain concepts. (4 days ago)
+- [baindlapranayraj/SolanaBlogs](https://github.com/baindlapranayraj/SolanaBlogs) - Some Solana Blogs I am writing, read if you are intrested (4 days ago)
+- [anders94/blockchain-demo](https://github.com/anders94/blockchain-demo) - A web-based demonstration of blockchain concepts. (5 days ago)
 - [googleapis/google-cloud-rust](https://github.com/googleapis/google-cloud-rust) - Google Cloud Platform Rust Client Libraries (1 week ago)
 - [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) - bluetooth mesh chat, IRC vibes (1 week ago)
 - [rs/zerolog](https://github.com/rs/zerolog) - Zero Allocation JSON Logger (2 months ago)
