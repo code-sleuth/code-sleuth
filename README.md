@@ -43,14 +43,14 @@
 
 #### ⭐ Recent Stars
 
-- [solana-program/system](https://github.com/solana-program/system) - The Solana System program and its clients (today)
-- [anza-xyz/alpenglow](https://github.com/anza-xyz/alpenglow) -  (today)
-- [anza-xyz/pinocchio](https://github.com/anza-xyz/pinocchio) - Create Solana programs with no dependencies attached (today)
-- [anza-xyz/solana-sdk](https://github.com/anza-xyz/solana-sdk) - Rust SDK for the Solana blockchain, used by on-chain program developers and the Agave validator (today)
-- [baindlapranayraj/SolanaBlogs](https://github.com/baindlapranayraj/SolanaBlogs) - Some Solana Blogs I am writing, read if you are intrested (4 days ago)
-- [anders94/blockchain-demo](https://github.com/anders94/blockchain-demo) - A web-based demonstration of blockchain concepts. (5 days ago)
+- [solana-program/system](https://github.com/solana-program/system) - The Solana System program and its clients (1 day ago)
+- [anza-xyz/alpenglow](https://github.com/anza-xyz/alpenglow) -  (1 day ago)
+- [anza-xyz/pinocchio](https://github.com/anza-xyz/pinocchio) - Create Solana programs with no dependencies attached (1 day ago)
+- [anza-xyz/solana-sdk](https://github.com/anza-xyz/solana-sdk) - Rust SDK for the Solana blockchain, used by on-chain program developers and the Agave validator (1 day ago)
+- [baindlapranayraj/SolanaBlogs](https://github.com/baindlapranayraj/SolanaBlogs) - Some Solana Blogs I am writing, read if you are intrested (5 days ago)
+- [anders94/blockchain-demo](https://github.com/anders94/blockchain-demo) - A web-based demonstration of blockchain concepts. (6 days ago)
 - [googleapis/google-cloud-rust](https://github.com/googleapis/google-cloud-rust) - Google Cloud Platform Rust Client Libraries (1 week ago)
-- [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) - bluetooth mesh chat, IRC vibes (1 week ago)
+- [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) - bluetooth mesh chat, IRC vibes (2 weeks ago)
 - [rs/zerolog](https://github.com/rs/zerolog) - Zero Allocation JSON Logger (2 months ago)
 - [paritytech/polkadot-sdk](https://github.com/paritytech/polkadot-sdk) - The Parity Polkadot Blockchain SDK (3 months ago)
 
