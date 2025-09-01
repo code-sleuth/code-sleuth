@@ -25,9 +25,13 @@ limitations under the License.
 {{- end}}
 
 ### Technical Focus
-- [Linux From Scratch (LFS)](https://www.linuxfromscratch.org/lfs/) - Systems programming & OS internals
+- [Linux From Scratch (LFS)](https://www.linuxfromscratch.org/lfs/) - Systems Programming & OS Internals
 - [MIT 6.5840](http://nil.csail.mit.edu/6.5840/2025/) - Distributed Systems
 - [MIT 6.S081](https://pdos.csail.mit.edu/6.828/2025/) - Operating Systems
-- Cloud Native Technologies (Kubernetes, Service Mesh)
+- Cloud Native Technologies
+- Protocol Engineering
+- Rust Security Researh
+- Solana
+- Polkadot
 
 <!-- comments will be preserved -->
