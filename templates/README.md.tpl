@@ -21,7 +21,7 @@ limitations under the License.
 
 #### Open Source Contributions
 {{range recentReleases 3}}
-- [{{.Name}}]({{.URL}}) - {{.Description}}
+- [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}) - {{.Description}}
 {{- end}}
 
 ### Technical Focus
