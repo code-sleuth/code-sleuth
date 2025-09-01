@@ -14,13 +14,13 @@ See the License for the specific language governing permissions and
 limitations under the License.
 --->
 
-### Recent Work & Contributions
+#### Recent Work
 {{range recentContributions 3}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
 {{- end}}
 
-### Key Projects
-{{range recentRepos 3}}
+#### Open Source Contributions
+{{range recentReleases 3}}
 - [{{.Name}}]({{.URL}}) - {{.Description}}
 {{- end}}
 
