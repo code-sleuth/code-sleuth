@@ -8,7 +8,7 @@
 
 #### Open Source Contributions
 
-- [code-sleuth/scrutiny](https://github.com/code-sleuth/scrutiny) - 
+- [code-sleuth/scrutiny](https://github.com/code-sleuth/scrutiny) ([v0.1.8](https://github.com/code-sleuth/scrutiny/releases/tag/v0.1.8), 7 months ago) - 
 
 ### Technical Focus
 - [Linux From Scratch (LFS)](https://www.linuxfromscratch.org/lfs/) - Systems Programming & OS Internals
