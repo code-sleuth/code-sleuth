@@ -4,7 +4,7 @@
 
 - [code-sleuth/dotfiles](https://github.com/code-sleuth/dotfiles) - configs of software i use (today)
 - [code-sleuth/node-handshake](https://github.com/code-sleuth/node-handshake) - A P2P handshake client and gossip node for participating in Solana network&#39;s peer-to-peer communication layer. (today)
-- [code-sleuth/metalend-protocol](https://github.com/code-sleuth/metalend-protocol) - MetaLend is a decentralized lending and borrowing protocol. This protocol demonstrates the core business logic and requirements for a modern DeFi lending platform built on Solana. (5 days ago)
+- [code-sleuth/metalend-protocol](https://github.com/code-sleuth/metalend-protocol) - MetaLend is a decentralized lending and borrowing protocol. This protocol demonstrates the core business logic and requirements for a modern DeFi lending platform built on Solana. (6 days ago)
 
 #### Open Source Contributions
 
