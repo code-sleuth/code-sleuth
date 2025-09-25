@@ -2,8 +2,8 @@
 
 #### Recent Work
 
-- [code-sleuth/dotfiles](https://github.com/code-sleuth/dotfiles) - configs of software i use (3 days ago)
-- [code-sleuth/xv6-labs-2020](https://github.com/code-sleuth/xv6-labs-2020) - xv6 for RISC-V  (1 week ago)
+- [code-sleuth/dotfiles](https://github.com/code-sleuth/dotfiles) - configs of software i use (4 days ago)
+- [code-sleuth/xv6-labs-2020](https://github.com/code-sleuth/xv6-labs-2020) - xv6 for RISC-V  (2 weeks ago)
 - [code-sleuth/node-handshake](https://github.com/code-sleuth/node-handshake) - A P2P handshake client and gossip node for participating in Solana network&#39;s peer-to-peer communication layer. (3 weeks ago)
 
 #### Open Source Contributions
