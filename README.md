@@ -2,9 +2,9 @@
 
 #### Recent Work
 
+- [code-sleuth/pinocchio-fundraiser](https://github.com/code-sleuth/pinocchio-fundraiser) -  (today)
 - [code-sleuth/dotfiles](https://github.com/code-sleuth/dotfiles) - configs of software i use (1 week ago)
 - [code-sleuth/interest-bearing-vault](https://github.com/code-sleuth/interest-bearing-vault) -  (1 week ago)
-- [code-sleuth/xv6-labs-2020](https://github.com/code-sleuth/xv6-labs-2020) - xv6 for RISC-V  (1 month ago)
 
 #### Open Source Contributions
 
