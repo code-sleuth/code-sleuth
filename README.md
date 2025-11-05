@@ -2,8 +2,8 @@
 
 #### Recent Work
 
+- [code-sleuth/dotfiles](https://github.com/code-sleuth/dotfiles) - configs of software i use (today)
 - [code-sleuth/pinocchio-fundraiser](https://github.com/code-sleuth/pinocchio-fundraiser) - How to create a fundraising for SPL Tokens using pinocchio (1 week ago)
-- [code-sleuth/dotfiles](https://github.com/code-sleuth/dotfiles) - configs of software i use (2 weeks ago)
 - [code-sleuth/interest-bearing-vault](https://github.com/code-sleuth/interest-bearing-vault) -  (2 weeks ago)
 
 #### Open Source Contributions
