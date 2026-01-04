@@ -2,8 +2,8 @@
 
 #### Recent Work
 
-- [code-sleuth/dotfiles](https://github.com/code-sleuth/dotfiles) - configs of software i use (2 days ago)
-- [code-sleuth/brackets](https://github.com/code-sleuth/brackets) -  (5 days ago)
+- [code-sleuth/dotfiles](https://github.com/code-sleuth/dotfiles) - configs of software i use (3 days ago)
+- [code-sleuth/brackets](https://github.com/code-sleuth/brackets) -  (6 days ago)
 - [code-sleuth/pinocchio-fundraiser](https://github.com/code-sleuth/pinocchio-fundraiser) - How to create a fundraising for SPL Tokens using pinocchio (2 months ago)
 
 #### Open Source Contributions
