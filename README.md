@@ -2,13 +2,13 @@
 
 #### Recent Work
 
-- [code-sleuth/dotfiles](https://github.com/code-sleuth/dotfiles) - configs of software i use (3 days ago)
-- [code-sleuth/brackets](https://github.com/code-sleuth/brackets) -  (6 days ago)
+- [code-sleuth/dotfiles](https://github.com/code-sleuth/dotfiles) - configs of software i use (4 days ago)
+- [code-sleuth/brackets](https://github.com/code-sleuth/brackets) -  (1 week ago)
 - [code-sleuth/pinocchio-fundraiser](https://github.com/code-sleuth/pinocchio-fundraiser) - How to create a fundraising for SPL Tokens using pinocchio (2 months ago)
 
 #### Open Source Contributions
 
-- [code-sleuth/scrutiny](https://github.com/code-sleuth/scrutiny) ([v0.1.8](https://github.com/code-sleuth/scrutiny/releases/tag/v0.1.8), 11 months ago) - 
+- [code-sleuth/scrutiny](https://github.com/code-sleuth/scrutiny) ([v0.1.8](https://github.com/code-sleuth/scrutiny/releases/tag/v0.1.8), 1 year ago) - 
 
 ### Technical Focus
 - [Linux From Scratch (LFS)](https://www.linuxfromscratch.org/lfs/) - Systems Programming & OS Internals
