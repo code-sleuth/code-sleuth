@@ -3,8 +3,8 @@
 #### Recent Work
 
 - [code-sleuth/dotfiles](https://github.com/code-sleuth/dotfiles) - configs of software i use (today)
+- [code-sleuth/ike-go](https://github.com/code-sleuth/ike-go) - A production-ready Go cli for importing, transforming, and processing content from various sources (WordPress JSON API, GitHub repositories) into a structured document database with vector embeddings. (today)
 - [code-sleuth/brackets](https://github.com/code-sleuth/brackets) -  (1 month ago)
-- [code-sleuth/pinocchio-fundraiser](https://github.com/code-sleuth/pinocchio-fundraiser) - How to create a fundraising for SPL Tokens using pinocchio (3 months ago)
 
 #### Open Source Contributions
 
