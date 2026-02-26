@@ -2,7 +2,7 @@
 
 #### Recent Work
 
-- [code-sleuth/dotfiles](https://github.com/code-sleuth/dotfiles) - configs of software i use (1 day ago)
+- [code-sleuth/dotfiles](https://github.com/code-sleuth/dotfiles) - configs of software i use (2 days ago)
 - [code-sleuth/ike-go](https://github.com/code-sleuth/ike-go) - A production-ready Go cli for importing, transforming, and processing content from various sources (WordPress JSON API, GitHub repositories) into a structured document database with vector embeddings. (3 weeks ago)
 - [code-sleuth/brackets](https://github.com/code-sleuth/brackets) -  (1 month ago)
 
