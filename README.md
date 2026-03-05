@@ -2,8 +2,8 @@
 
 #### Recent Work
 
+- [code-sleuth/dotfiles](https://github.com/code-sleuth/dotfiles) - configs of software i use (today)
 - [code-sleuth/holidays](https://github.com/code-sleuth/holidays) -  (1 day ago)
-- [code-sleuth/dotfiles](https://github.com/code-sleuth/dotfiles) - configs of software i use (1 week ago)
 - [code-sleuth/ike-go](https://github.com/code-sleuth/ike-go) - A production-ready Go cli for importing, transforming, and processing content from various sources (WordPress JSON API, GitHub repositories) into a structured document database with vector embeddings. (4 weeks ago)
 
 #### Open Source Contributions
