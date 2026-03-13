@@ -31,7 +31,7 @@ limitations under the License.
 - Cloud Native Technologies
 - Protocol Engineering
 - Rust Security Researh
-- Solana
-- Polkadot
+- Networking
+- Nodejs
 
 <!-- comments will be preserved -->
