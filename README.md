@@ -15,8 +15,7 @@
 - [MIT 6.S081](https://pdos.csail.mit.edu/6.828/2025/) - Operating Systems
 - Cloud Native Technologies
 - Protocol Engineering
-- Rust Security Researh
-- Solana
-- Polkadot
+- Networking
+- Nodejs
 
 
