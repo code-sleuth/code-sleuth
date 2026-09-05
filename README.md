@@ -2,9 +2,9 @@
 
 #### Recent Work
 
-- [code-sleuth/dotfiles](https://github.com/code-sleuth/dotfiles) - configs of software i use (2 days ago)
+- [code-sleuth/dotfiles](https://github.com/code-sleuth/dotfiles) - configs of software i use (3 days ago)
 - [code-sleuth/outh](https://github.com/code-sleuth/outh) - Auth service (1 month ago)
-- [code-sleuth/ai-job-search](https://github.com/code-sleuth/ai-job-search) - A semantic job search engine that routes natural-language queries through GPT-4o-mini into three specialized FAISS indices (explicit skills, inferred qualifications, company attributes), fuses results via Reciprocal Rank Fusion, and refines iteratively across conversation turns. (4 months ago)
+- [code-sleuth/ai-job-search](https://github.com/code-sleuth/ai-job-search) - A semantic job search engine that routes natural-language queries through GPT-4o-mini into three specialized FAISS indices (explicit skills, inferred qualifications, company attributes), fuses results via Reciprocal Rank Fusion, and refines iteratively across conversation turns. (5 months ago)
 
 #### Open Source Contributions
 
